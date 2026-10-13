@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated video and model files are not distributed here
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.pt
+*.safetensors
+*.onnx
+*.hef
+sim/out/
+video/out/
+# Frames taken from generated clips (start/end conditions) are not distributed
+video/*_frame.png
+video/*_last.png
+# Rendered title cards and their temporary files (rebuild with render_cards.sh)
+video/cards/*.png
+!video/cards/fig-a-architecture.png
+video/cards/_*.html
+
+# Local secrets
+.env
+.env.*

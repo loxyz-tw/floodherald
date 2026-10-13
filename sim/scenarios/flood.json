@@ -1,0 +1,20 @@
+{
+  "_note": "Aligned to two clips generated as one continuous shot, each played once from start to end: video/flood_person_H3_20s_seed2026101602+2026101611.mp4 (480 frames, 20.00 s) then video/recede_H3_15.75s_seed2026101621+2026101631.mp4 (378 frames, 15.75 s); total 858 frames, 35.75 s. Recreation area: no routine warnings. Water states are injected at hand-set times matching the pictures (mud from ~13.5 s, clear again from 28 s); the area polygon is approximate and uses the bottom centre of each detection box.",
+  "title": "Flash flood - early warning and end",
+  "zone_mode": "recreation",
+  "zone": [[0.20, 0.68], [1.00, 0.68], [1.00, 1.00], [0.30, 1.00]],
+  "params": {"m": 5, "t_travel": 12, "upstream_timeout": 3, "local_timeout": 3},
+  "prompt_cooldown": 5,
+  "notes": [
+    {"from": 0, "to": 6, "lines": ["Water states are injected; only person detection runs on the footage."]},
+    {"from": 20, "to": 35.75, "lines": ["Recovery timeline compressed for demonstration", "Footage played at original speed"]}
+  ],
+  "inputs": [
+    {"t": 0, "input": "upstream", "state": "NORMAL"},
+    {"t": 1, "input": "upstream", "state": "FLOOD", "every": 1, "until": 18},
+    {"t": 19, "input": "upstream", "state": "NORMAL", "every": 1, "until": 35},
+    {"t": 0, "input": "local", "state": "NORMAL", "every": 1, "until": 13},
+    {"t": 13.5, "input": "local", "state": "NON_NORMAL", "every": 1, "until": 27.5},
+    {"t": 28, "input": "local", "state": "NORMAL", "every": 1, "until": 35}
+  ]
+}

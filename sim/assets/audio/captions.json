@@ -1,0 +1,12 @@
+{
+  "warn_zone.wav": {
+    "zh": "您已進入禁止戲水區，請立即上岸。",
+    "en": "You are in a no-swimming zone. Please leave the water now.",
+    "seconds": 3.39
+  },
+  "warn_flood.wav": {
+    "zh": "上游暴洪，請立即離開河床，往高處移動。",
+    "en": "Flash flood upstream. Leave the riverbed and move to higher ground now.",
+    "seconds": 4.4
+  }
+}

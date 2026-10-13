@@ -1,0 +1,22 @@
+[project]
+name = "floodherald-sim"
+version = "0.1.0"
+description = "FloodHerald laptop simulation: person detection, injected water states and the downstream alarm rules"
+requires-python = ">=3.12"
+license = "AGPL-3.0-only"
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "ultralytics",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

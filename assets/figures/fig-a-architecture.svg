@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1664 770" width="1664" height="770" font-family="'IBM Plex Sans', 'DejaVu Sans', Arial, sans-serif">
+  <!-- Drawn for 1:1 display on a 1920x1080 slide (1664 px content width): font sizes = on-slide px. -->
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#14213D"/>
+    </marker>
+    <marker id="ahO" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#C2541F"/>
+    </marker>
+    <marker id="ahB" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2B6CB0"/>
+    </marker>
+  </defs>
+  <rect width="1664" height="770" fill="#F6F4EE"/>
+
+  <!-- Upstream sentinel -->
+  <rect x="2" y="2" width="400" height="584" rx="16" fill="#FFFFFF" stroke="#14213D" stroke-width="3"/>
+  <text x="24" y="44" font-size="30" font-weight="700" fill="#14213D">Upstream Sentinel</text>
+  <text x="24" y="76" font-size="22" fill="#4A5568">~1 km upstream (site-specific)</text>
+  <rect x="24" y="96" width="356" height="62" rx="10" fill="#E6EEF7" stroke="#2B6CB0" stroke-width="2"/>
+  <text x="44" y="136" font-size="26" fill="#14213D">Water-level gauge</text>
+  <rect x="24" y="172" width="356" height="62" rx="10" fill="#E6EEF7" stroke="#2B6CB0" stroke-width="2"/>
+  <text x="44" y="212" font-size="26" fill="#14213D">Camera</text>
+  <rect x="24" y="248" width="356" height="222" rx="10" fill="#FFFFFF" stroke="#14213D" stroke-width="2"/>
+  <text x="44" y="288" font-size="26" font-weight="700" fill="#14213D">CPU board</text>
+  <text x="44" y="324" font-size="23" fill="#14213D"><tspan font-weight="700">FLOOD</tspan> = gauge rule OR</text>
+  <text x="44" y="354" font-size="23" fill="#14213D">a persistent camera cue</text>
+  <text x="44" y="396" font-size="23" fill="#14213D"><tspan font-weight="700">WATCH</tspan> = early muddying;</text>
+  <text x="44" y="426" font-size="23" fill="#14213D">no FLOOD trigger</text>
+  <rect x="24" y="486" width="356" height="80" rx="10" fill="#FFFFFF" stroke="#14213D" stroke-width="2"/>
+  <text x="44" y="536" font-size="26" fill="#14213D">Radio (e.g. LoRa)</text>
+
+  <!-- notes under the sentinel -->
+  <text x="2" y="628" font-size="22" font-weight="700" fill="#14213D">Prototype: one guardian,</text>
+  <text x="2" y="656" font-size="22" font-weight="700" fill="#14213D">one UGen300.</text>
+  <text x="2" y="692" font-size="22" fill="#4A5568">Later: one sentinel, several guardians,</text>
+  <text x="2" y="720" font-size="22" fill="#4A5568">each with its own UGen300 and ACK.</text>
+  <text x="2" y="758" font-size="22" fill="#C2541F" font-weight="700">Options A and B: proposed</text>
+
+  <!-- radio link labels -->
+  <text x="414" y="440" font-size="22" fill="#14213D">heartbeat</text>
+  <text x="414" y="470" font-size="23" font-weight="700" fill="#14213D">FLOOD · WATCH</text>
+  <text x="414" y="610" font-size="22" fill="#14213D">ACK per guardian</text>
+  <text x="414" y="664" font-size="22" fill="#4A5568">direct radio,</text>
+  <text x="414" y="694" font-size="22" fill="#4A5568">no internet; valley</text>
+  <text x="414" y="724" font-size="22" fill="#4A5568">range to be tested</text>
+
+  <!-- Downstream guardian container -->
+  <rect x="642" y="2" width="1020" height="766" rx="16" fill="#FFFFFF" stroke="#14213D" stroke-width="3"/>
+  <text x="664" y="44" font-size="30" font-weight="700" fill="#14213D">Downstream Guardian</text>
+  <text x="1004" y="44" font-size="22" font-weight="700" fill="#C2541F">Option A drawn · Option B: the MCU functions run on the Pi</text>
+
+  <!-- Vision path lane -->
+  <rect x="660" y="62" width="984" height="268" rx="12" fill="#E6EEF7" stroke="#2B6CB0" stroke-width="3"/>
+  <text x="680" y="100" font-size="26" font-weight="700" fill="#2B6CB0">VISION PATH — the person side<tspan dx="16" font-size="22" font-weight="400" fill="#14213D">option A: on in daytime, sleeps at night</tspan></text>
+  <rect x="680" y="118" width="170" height="110" rx="10" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="2"/>
+  <text x="698" y="164" font-size="26" fill="#14213D">Camera</text>
+  <text x="698" y="198" font-size="22" fill="#4A5568">riverbed</text>
+  <rect x="886" y="118" width="330" height="194" rx="10" fill="#FFFFFF" stroke="#14213D" stroke-width="2.5"/>
+  <text x="906" y="158" font-size="26" font-weight="700" fill="#14213D">Raspberry Pi 5</text>
+  <text x="906" y="190" font-size="26" font-weight="700" fill="#14213D">+ ASUS UGen300</text>
+  <text x="906" y="228" font-size="22" fill="#4A5568">person detection</text>
+  <text x="906" y="258" font-size="22" fill="#4A5568">and tracking;</text>
+  <text x="906" y="288" font-size="22" fill="#4A5568">local water state</text>
+  <rect x="1270" y="118" width="356" height="86" rx="10" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="2"/>
+  <text x="1288" y="154" font-size="26" fill="#14213D">Speaker</text>
+  <text x="1288" y="188" font-size="22" fill="#4A5568">daytime and WATCH warnings</text>
+  <rect x="1270" y="220" width="356" height="92" rx="10" fill="#FFFFFF" stroke="#2B6CB0" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="1288" y="256" font-size="24" fill="#14213D">Internet, if any</text>
+  <text x="1288" y="290" font-size="22" fill="#4A5568">notify rescuers only</text>
+  <path d="M850,173 L880,173" stroke="#2B6CB0" stroke-width="4" fill="none" marker-end="url(#ahB)"/>
+  <path d="M1216,161 L1264,161" stroke="#2B6CB0" stroke-width="4" fill="none" marker-end="url(#ahB)"/>
+  <path d="M1216,266 L1264,266" stroke="#2B6CB0" stroke-width="3" stroke-dasharray="7 5" fill="none" marker-end="url(#ahB)"/>
+
+  <!-- Pi to MCU: two distinct signals -->
+  <text x="1110" y="370" font-size="22" font-weight="700" fill="#2B6CB0" text-anchor="end">person cues:</text>
+  <text x="1110" y="398" font-size="22" fill="#2B6CB0" text-anchor="end">request escalation only;</text>
+  <text x="1110" y="426" font-size="22" fill="#2B6CB0" text-anchor="end">cannot delay or silence it</text>
+  <text x="1214" y="370" font-size="22" font-weight="700" fill="#14213D">local water, timestamped:</text>
+  <text x="1214" y="398" font-size="22" fill="#14213D">NORMAL / NON-NORMAL /</text>
+  <text x="1214" y="426" font-size="22" fill="#14213D">UNKNOWN; MCU uses it to end</text>
+
+  <!-- Alarm path lane -->
+  <rect x="660" y="450" width="984" height="300" rx="12" fill="#FBEDE4" stroke="#C2541F" stroke-width="3"/>
+  <text x="680" y="488" font-size="26" font-weight="700" fill="#C2541F">ALARM PATH — decides the siren</text>
+  <rect x="680" y="504" width="540" height="196" rx="10" fill="#FFFFFF" stroke="#C2541F" stroke-width="2.5"/>
+  <text x="700" y="542" font-size="26" font-weight="700" fill="#14213D">Radio receiver + MCU, own battery</text>
+  <text x="700" y="578" font-size="22" fill="#14213D">Latches ALARM on FLOOD.</text>
+  <text x="700" y="608" font-size="22" font-weight="700" fill="#14213D">Option A: starts and stays on without Pi.</text>
+  <text x="700" y="638" font-size="22" fill="#14213D">MCU decides when to end; fresh local</text>
+  <text x="700" y="666" font-size="22" fill="#14213D">water observations required.</text>
+  <text x="700" y="692" font-size="20" fill="#4A5568">Also: sound schedule, ACK.</text>
+  <rect x="1270" y="504" width="356" height="86" rx="10" fill="#C2541F"/>
+  <text x="1290" y="556" font-size="26" font-weight="700" fill="#FFFFFF">Siren + strobe</text>
+  <rect x="1270" y="612" width="356" height="88" rx="10" fill="#FFFFFF" stroke="#B7791F" stroke-width="2.5"/>
+  <text x="1290" y="664" font-size="24" fill="#14213D">Amber fault light + tone</text>
+  <path d="M1220,547 L1264,547" stroke="#C2541F" stroke-width="4" fill="none" marker-end="url(#ahO)"/>
+  <path d="M1220,656 L1264,656" stroke="#C2541F" stroke-width="3" fill="none" marker-end="url(#ahO)"/>
+  <text x="680" y="734" font-size="23" font-weight="700" fill="#7A3412">FLOOD always sounds the siren; person detection cannot start, delay or stop it.</text>
+
+  <!-- links drawn last so arrowheads sit on top -->
+  <path d="M380,512 L674,512" stroke="#14213D" stroke-width="4" fill="none" marker-end="url(#ah)"/>
+  <path d="M674,560 L386,560" stroke="#14213D" stroke-width="2.5" stroke-dasharray="8 6" fill="none" marker-end="url(#ah)"/>
+  <path d="M1130,312 L1130,498" stroke="#2B6CB0" stroke-width="3" stroke-dasharray="8 6" fill="none" marker-end="url(#ahB)"/>
+  <path d="M1196,312 L1196,498" stroke="#14213D" stroke-width="3.5" fill="none" marker-end="url(#ah)"/>
+</svg>

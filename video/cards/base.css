@@ -1,0 +1,8 @@
+html,body{margin:0;padding:0;width:1920px;height:1080px;overflow:hidden}
+body{font-family:'IBM Plex Sans','Noto Sans TC',Arial,sans-serif;color:#14213D}
+.card{box-sizing:border-box;width:1920px;height:1080px;background:#F6F4EE;padding:96px 128px 220px;display:flex;flex-direction:column;justify-content:center}
+.kicker{font-size:40px;font-weight:700;color:#C2551F;letter-spacing:2px;text-transform:uppercase}
+.title{font-size:96px;font-weight:700;line-height:1.1;margin:16px 0 32px}
+.sub{font-size:40px;line-height:1.45;color:#3E4A5C}
+.foot{position:absolute;right:128px;top:40px;font-size:24px;color:#6B7480}
+/* bottom 150 px is kept free for narration subtitles */

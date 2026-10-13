@@ -1,0 +1,12 @@
+{
+  "_note": "Aligned to video/person_H3_12s_seed2026101501.mp4 (12.25 s), played once from start to end. Person visible 1.75-11.9 s. Zone: hand-set pool and water-edge warning area, boundaries approximate; the test point is the bottom centre of the detection box, not a measured foot or water-entry point.",
+  "title": "Routine warning - no flood",
+  "segments": [{"from": 0, "to": 12.25}],
+  "zone": [[0.23, 0.64], [0.72, 0.64], [0.86, 0.99], [0.38, 0.99]],
+  "params": {"m": 8, "t_travel": 24, "upstream_timeout": 3, "local_timeout": 3},
+  "prompt_cooldown": 8,
+  "inputs": [
+    {"t": 0, "input": "upstream", "state": "NORMAL", "every": 1, "until": 12.25},
+    {"t": 0, "input": "local", "state": "NORMAL", "every": 1, "until": 12.25}
+  ]
+}
