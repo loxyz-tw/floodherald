@@ -28,6 +28,7 @@ Battlefield Lightning track (UGen300), onsite group.
 | [`sim/`](sim/) | Laptop simulation: YOLOv8 person detection on video, injected water states, the downstream alarm rules as a state machine, program-triggered siren and spoken prompts. Tests, scenarios, audio assets. See [`sim/README.md`](sim/README.md). |
 | [`video/`](video/) | How the demo video was made: MiniMax H3 prompts and ComfyUI workflows for each generated clip, title cards (HTML) and the assembly script. The generated clips themselves are not included. |
 | [`assets/figures/`](assets/figures/) | Architecture figure (SVG and PNG). |
+| [`data/water-lists/`](data/water-lists/) | Team compilation of Taiwan's local water-safety lists (danger-water, restriction, incident and rescue lists): entries, river/stream name groups, sources and method. Background research for site outreach, not a verified count of rivers or sites. |
 
 ## The alarm rules shown in the simulation
 

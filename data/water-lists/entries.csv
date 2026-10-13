@@ -1,0 +1,781 @@
+﻿entry_id,source_id,source_row,county,location,water_type,classification_basis,content_nature,source_status,data_date,source_url
+E001,S01,listed item 1 (web page),基隆市,田寮河,river_stream,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E002,S01,listed item 2 (web page),基隆市,碧砂漁港,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E003,S01,listed item 3 (web page),基隆市,八斗子漁港,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E004,S01,listed item 4 (web page),基隆市,和平島海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E005,S01,listed item 5 (web page),基隆市,長潭里垃圾場防波堤,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E006,S01,listed item 6 (web page),基隆市,外木山海興游泳池,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E007,S01,listed item 7 (web page),基隆市,外木山大武崙澳底沙灘,coast_sea,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E008,S01,listed item 8 (web page),基隆市,友蚋溪,river_stream,explicit_in_source,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E009,S01,listed item 9 (web page),基隆市,石公潭水域,unknown,not_classified,hazard_inventory,agency_original,2021-12-06,https://www.klfd.klcg.gov.tw/tw/klfd1/3666.html
+E010,S02,CSV data row 1,臺北市,古亭河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E011,S02,CSV data row 2,臺北市,中正河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E012,S02,CSV data row 3,臺北市,龍山河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E013,S02,CSV data row 4,臺北市,雙園河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E014,S02,CSV data row 5,臺北市,華中河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E015,S02,CSV data row 6,臺北市,馬場町河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E016,S02,CSV data row 7,臺北市,景美河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E017,S02,CSV data row 8,臺北市,醉月湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E018,S02,CSV data row 9,臺北市,南湖左岸河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E019,S02,CSV data row 10,臺北市,南港公園,unknown,not_classified,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E020,S02,CSV data row 11,臺北市,迎風河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E021,S02,CSV data row 12,臺北市,圓山河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E022,S02,CSV data row 13,臺北市,大佳河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E023,S02,CSV data row 14,臺北市,美堤河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E024,S02,CSV data row 15,臺北市,成美左岸河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E025,S02,CSV data row 16,臺北市,觀山河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E026,S02,CSV data row 17,臺北市,成美右岸河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E027,S02,CSV data row 18,臺北市,南湖右岸河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E028,S02,CSV data row 19,臺北市,彩虹河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E029,S02,CSV data row 20,臺北市,大湖公園,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E030,S02,CSV data row 21,臺北市,碧湖公園,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E031,S02,CSV data row 22,臺北市,大溝溪,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E032,S02,CSV data row 23,臺北市,內溝溪,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E033,S02,CSV data row 24,臺北市,延平河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E034,S02,CSV data row 25,臺北市,百齡右岸河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E035,S02,CSV data row 26,臺北市,雙溪流域,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E036,S02,CSV data row 27,臺北市,社子島濕地,other,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E037,S02,CSV data row 28,臺北市,關渡水岸公園,unknown,not_classified,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E038,S02,CSV data row 29,臺北市,河雙21號河濱公園,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-06-13,https://data.taipei/dataset/detail?id=1d1f8665-1247-47be-9fcd-5ead19ec763b
+E039,S03,number 1,新北市,淡水沙崙海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E040,S03,number 2,新北市,石門白沙灣海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E041,S03,number 3,新北市,新店上龜山橋(龜岩洞)、下龜山橋(成功湖)水域,river_stream,inferred,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E042,S03,number 4,新北市,新店思源橋水域,river_stream,inferred,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E043,S03,number 5,新北市,樹林大漢溪柑園攔沙壩水域,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E044,S03,number 6,新北市,瑞芳濱海水湳洞沿海海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E045,S03,number 7,新北市,瑞芳濱海公路84公里路段及(蝙蝠洞)鄰近海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E046,S03,number 8,新北市,貢寮區龍洞南口與美豔山段海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E047,S03,number 9,新北市,新店碧潭及青潭堰段水域,river_stream,inferred,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E048,S03,number 10,新北市,烏來區烏來里南勢溪發電廠溢流口處,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E049,S03,number 11,新北市,烏來區清泉莊下方桶後溪水域,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E050,S03,number 12,新北市,萬美海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E051,S03,number 13,新北市,三峽大豹溪灣潭及東眼橋段水域,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E052,S03,number 14,新北市,三峽大豹溪香蕉湖及東陽橋段,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E053,S03,number 15,新北市,林口區下福里濱海公路段海域,coast_sea,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E054,S03,number 16,新北市,平溪嶺腳瀑布上下游基隆河水域,river_stream,inferred,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E055,S03,number 17,新北市,坪林大林里(慶林宮)大溪地北勢溪水域,river_stream,explicit_in_source,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E056,S03,number 18,新北市,坪林黑龍潭水域,river_stream,inferred,hazard_inventory,agency_original,2025-09-22,https://data.ntpc.gov.tw/datasets/aad3d6e0-6e6e-44ff-a658-aad41e84c6ef
+E057,S04,序號 1,桃園市,竹圍漁港,coast_sea,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E058,S04,序號 2,桃園市,永安漁港,coast_sea,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E059,S04,序號 3,桃園市,桃園區國際路一段413巷_桃園大圳,other,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E060,S04,序號 4,桃園市,龍潭大池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E061,S04,序號 5,桃園市,霄裡大池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E062,S04,序號 6,桃園市,大漢溪流域_溪洲橋至武嶺橋,river_stream,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E063,S04,序號 7,桃園市,桃園區莊敬大池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E064,S04,序號 8,桃園市,觀音區豬屠埤_桃園大圳9-11號池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E065,S04,序號 9,桃園市,中壢區龍岡路3段754號前方池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E066,S04,序號 10,桃園市,石門水庫,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2026-10-08,https://data.gov.tw/dataset/127364
+E067,S05,listed item 1,新竹縣,北埔鄉北埔冷泉,unknown,not_classified,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E068,S05,listed item 2,新竹縣,新豐紅樹林附近水域,coast_sea,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E069,S05,listed item 3,新竹縣,橫山鄉內灣村雞油樹下水域,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E070,S05,listed item 4,新竹縣,尖石鄉馬胎舊檢查哨上游,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E071,S05,listed item 5,新竹縣,關西鎮東安橋下,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E072,S05,listed item 6,新竹縣,新埔鎮寶石橋附近水域,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E073,S05,listed item 7,新竹縣,橫山鄉內灣村吊橋下,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E074,S05,listed item 8,新竹縣,五峰鄉清泉橋下,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E075,S05,listed item 9,新竹縣,竹東鎮上坪溪流域,river_stream,explicit_in_source,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E076,S05,listed item 10,新竹縣,峨眉鄉大埔水庫,lake_reservoir_pond,explicit_in_source,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E077,S05,listed item 11,新竹縣,頭前溪流域(竹東段至竹北段),river_stream,explicit_in_source,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E078,S05,listed item 12,新竹縣,竹北拔子窟附近水域,unknown,not_classified,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E079,S05,listed item 13,新竹縣,竹北市新月沙灣(含山腳碼頭),coast_sea,explicit_in_source,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E080,S05,listed item 14,新竹縣,橫山鄉內灣大橋下,river_stream,inferred,recreation_restriction,official_compilation,2022-01-01,https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=140&article_id=605
+E081,S06,"PDF p.2, 新竹市 section item 1",新竹市,新竹漁港及沿岸,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E082,S06,"PDF p.2, 新竹市 section item 2",新竹市,海山漁港及沿岸,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E083,S07,CSV data row(s) 1 (編號 1),苗栗縣,苗栗市後龍溪伯爵庭園段,river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E084,S07,CSV data row(s) 2 (編號 2),苗栗縣,苗栗市池塘(南勢里忠愛231號),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E085,S07,CSV data row(s) 3 (編號 3),苗栗縣,三義鄉鯉魚潭水庫(鯉魚潭村後池堰),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E086,S07,CSV data row(s) 4 (編號 4),苗栗縣,大湖鄉鯉魚潭水庫,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E087,S07,CSV data row(s) 5 (編號 5),苗栗縣,大湖鄉池塘(湖畔花民宿旁),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E088,S07,CSV data row(s) 6 (編號 6),苗栗縣,銅鑼鄉池塘(新隆村4鄰51號),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E089,S07,"CSV data row(s) 7,8 (編號 7,8)",苗栗縣,頭屋鄉老田寮溪(龍頸潭),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E090,S07,"CSV data row(s) 9,10 (編號 9,10)",苗栗縣,頭屋鄉老田寮溪(龍頸潭中興隧道口旁),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E091,S07,"CSV data row(s) 11,12 (編號 11,12)",苗栗縣,頭屋鄉老田寮溪(獅豐橋下),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E092,S07,"CSV data row(s) 13,14 (編號 13,14)",苗栗縣,頭屋鄉老田寮溪(棒壘球場旁),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E093,S07,CSV data row(s) 15 (編號 15),苗栗縣,頭屋鄉明德水庫日新島一號吊橋,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E094,S07,CSV data row(s) 16 (編號 16),苗栗縣,頭屋鄉明德水庫釣魚台民宿前,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E095,S07,CSV data row(s) 17 (編號 17),苗栗縣,竹南鎮龍鳳漁港中港溪出海口,river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E096,S07,CSV data row(s) 18 (編號 18),苗栗縣,竹南鎮龍鳳漁港(海岸線餐廳前水溝橋),coast_sea,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E097,S07,CSV data row(s) 19 (編號 19),苗栗縣,竹南鎮五福大橋,river_stream,inferred,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E098,S07,"CSV data row(s) 20,21 (編號 16,17)",苗栗縣,竹南鎮假日之森,coast_sea,external_source(S21),rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E099,S07,CSV data row(s) 22 (編號 18),苗栗縣,頭份市中港溪(東興大橋附近),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E100,S07,CSV data row(s) 23 (編號 19),苗栗縣,頭份市隆恩路600巷(中港溪水域),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E101,S07,CSV data row(s) 24 (編號 20),苗栗縣,造橋鄉龍湖宮大潭,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E102,S07,CSV data row(s) 25 (編號 21),苗栗縣,後龍鎮後龍大橋,river_stream,inferred,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E103,S07,CSV data row(s) 26 (編號 22),苗栗縣,後龍鎮水尾里滯洪池,other,inferred,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E104,S07,CSV data row(s) 27 (編號 23),苗栗縣,後龍鎮水尾海灘,coast_sea,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E105,S07,CSV data row(s) 28 (編號 24),苗栗縣,南庄鄉東河村苦花潭,unknown,not_classified,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E106,S07,CSV data row(s) 29 (編號 25),苗栗縣,南庄鄉神仙谷,unknown,not_classified,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E107,S07,CSV data row(s) 30 (編號 26),苗栗縣,南庄鄉中港溪(田美大橋),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E108,S07,CSV data row(s) 31 (編號 27),苗栗縣,通霄鎮南勢溪出海口(旺耶五金行進入西濱橋下78號橋墩附近海岸),coast_sea,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E109,S07,CSV data row(s) 32 (編號 28),苗栗縣,通霄鎮南勢溪出海口(通霄橋下往出海口),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E110,S07,CSV data row(s) 33 (編號 29),苗栗縣,通霄鎮通霄溪懷恩堂,river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E111,S07,CSV data row(s) 34 (編號 30),苗栗縣,通霄鎮池塘(烏眉里大坎橋附近),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E112,S07,CSV data row(s) 35 (編號 31),苗栗縣,苑裡鎮苑裡苑港漁港彩虹橋,coast_sea,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E113,S07,CSV data row(s) 36 (編號 32),苗栗縣,苑裡鎮池塘(苑坑里5鄰79-1號旁),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E114,S07,"CSV data row(s) 37,38 (編號 33,34)",苗栗縣,卓蘭鎮池塘(小森時光農場),lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E115,S07,CSV data row(s) 39 (編號 35),苗栗縣,獅潭鄉後龍溪(竹木橋附近),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E116,S07,CSV data row(s) 40 (編號 36),苗栗縣,泰安鄉汶水溪(警光山莊上游往水雲瀑布約1K處),river_stream,inferred,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E117,S07,CSV data row(s) 41 (編號 37),苗栗縣,泰安鄉大安溪白布帆段(竹林派出所前河床下游),river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E118,S07,CSV data row(s) 42 (編號 38),苗栗縣,泰安鄉梅園村梅象大橋,river_stream,inferred,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E119,S07,"CSV data row(s) 43,44 (編號 39,40)",苗栗縣,泰安鄉打比厝溪,river_stream,explicit_in_source,rescue_records,agency_original,2025-04-02,https://data.gov.tw/dataset/173143
+E120,S08,CSV data row 1,臺中市,東勢區東勢段大安溪蘭勢大橋上游大峽谷區域水域,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E121,S08,CSV data row 2,臺中市,太平區頭汴坑溪內城橋上游及其支流水域,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E122,S08,CSV data row 3,臺中市,東勢區觀瀛橋上下游100公尺範圍內水域,river_stream,inferred,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E123,S08,CSV data row 4,臺中市,烏日區烏溪水域,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E124,S08,CSV data row 5,臺中市,烏日區貓羅溪及大里溪水域,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E125,S08,CSV data row 6,臺中市,大肚區大肚溪(烏溪)水域,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E126,S08,CSV data row 7,臺中市,大甲溪水域自東勢區及新社區交界之天福橋起經龍安橋、東豐大橋、長庚橋、埤豐橋至豐原區后豐大橋下游500公尺處止(石岡水壩範圍已由經濟部水利署中區水資源局公告除外),river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E127,S08,CSV data row 8,臺中市,豐原區軟埤仔溪水域自角潭路角潭橋起至三環路止,river_stream,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E128,S08,CSV data row 9,臺中市,豐原區葫蘆墩圳自大甲溪取水口起至圓環北路止,other,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E129,S08,CSV data row 10,臺中市,豐原區八寶圳自大甲溪取水口起至三豐路(台13線)止,other,explicit_in_source,recreation_restriction,agency_original,2026-07-29,https://opendata.taichung.gov.tw/search/a997f423-7ea9-4a4b-a04f-50f803a6222f
+E130,S09,號列 1,彰化縣,八堡一、二圳,other,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E131,S09,號列 2,彰化縣,伸港鄉什股海域,coast_sea,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E132,S09,號列 3,彰化縣,線西鄉肉粽角海域,coast_sea,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E133,S09,號列 4,彰化縣,鹿港鎮彰濱工業區海域,coast_sea,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E134,S09,號列 5,彰化縣,芬園鄉貓羅溪,river_stream,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E135,S09,號列 6,彰化縣,烏溪(伸港、和美、彰化、芬園),river_stream,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E136,S09,號列 7,彰化縣,濁水溪(二水、溪州、竹塘、大城),river_stream,explicit_in_source,hazard_or_incident_unclear,agency_original,2026-09-08,"https://www.chfd.gov.tw/form/Details.aspx?Parser=2,4,157,46,,,1265"
+E137,S10,編號 1,南投縣,貓羅溪 千秋里堤防附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E138,S10,編號 2,南投縣,貓羅溪 振興里振興橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E139,S10,編號 3,南投縣,貓羅溪 綠美橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E140,S10,編號 4,南投縣,貓羅溪 南崗橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E141,S10,編號 5,南投縣,貓羅溪 祖師橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E142,S10,編號 6,南投縣,樟平溪 龍興橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E143,S10,編號 7,南投縣,貓羅溪 貓羅橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E144,S10,編號 8,南投縣,貓羅溪 坪林橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E145,S10,編號 9,南投縣,樟平溪 拔仔頭,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E146,S10,編號 10,南投縣,樟平溪 小溪橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E147,S10,編號 11,南投縣,樟平溪 東山吊橋附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E148,S10,編號 12,南投縣,同源圳 山腳巷韓信爺廟前,other,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E149,S10,編號 13,南投縣,同源圳 下灣巷附近,other,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E150,S10,編號 14,南投縣,濁水溪 名竹大橋北端,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E151,S10,編號 15,南投縣,八寶圳 新民國小附近,other,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E152,S10,編號 16,南投縣,貓羅溪 貓羅溪（溪頭橋）上、下游50公尺,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E153,S10,編號 17,南投縣,烏溪 烏溪（烏溪橋）上、下游50公尺,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E154,S10,編號 18,南投縣,隘寮溪 隘寮溪(新庄橋) 上、下游50公尺,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E155,S10,編號 19,南投縣,烏溪 烏溪（炎峰橋）上、下游50公尺,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E156,S10,編號 20,南投縣,烏溪 烏溪（坪林橋）上、下游50公尺,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E157,S10,編號 21,南投縣,山茶巷 山茶巷山區,unknown,not_classified,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E158,S10,編號 22,南投縣,石灼巷 石灼巷橋旁,unknown,not_classified,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E159,S10,編號 23,南投縣,義和村平林溪 天台山前,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E160,S10,編號 24,南投縣,永福村平林溪 竹仔坑檢查所前,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E161,S10,編號 25,南投縣,永福村平林溪 玄武宮對面,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E162,S10,編號 26,南投縣,永福村平林溪 雙福橋下游100公尺、700公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E163,S10,編號 27,南投縣,永福村平林溪 ?地段,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E164,S10,編號 28,南投縣,廣福村平林溪 雙福橋上游約600公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E165,S10,編號 29,南投縣,中寮村 平林溪 風櫃嶺彎曲段,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E166,S10,編號 30,南投縣,中寮村 平林溪 鹿寮段,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E167,S10,編號 31,南投縣,中寮村 平林溪 中寮隧道口,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E168,S10,編號 32,南投縣,中寮村 平林溪 中正橋下游約400公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E169,S10,編號 33,南投縣,永平村 平林溪 中正橋上游約350公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E170,S10,編號 34,南投縣,永平村 平林溪 愛鄉橋下游約100公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E171,S10,編號 35,南投縣,八仙村 平林溪 八仙橋下游150公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E172,S10,編號 36,南投縣,和興村 平林溪 久恭橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E173,S10,編號 37,南投縣,和興村 平林溪 炭寮1號橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E174,S10,編號 38,南投縣,廣興村 後寮溪 廣福橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E175,S10,編號 39,南投縣,廣興村 後寮溪 廣興橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E176,S10,編號 40,南投縣,崁頂村 後寮溪 羽衣橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E177,S10,編號 41,南投縣,福盛村 粗坑溪 粗坑橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E178,S10,編號 42,南投縣,廣福村東勢閣溪 福水橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E179,S10,編號 43,南投縣,樟平溪 中寮鄉內城村月桃巷月桃橋下方,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E180,S10,編號 44,南投縣,樟平溪 中寮鄉永芳村龍南路（大丘園）,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E181,S10,編號 45,南投縣,樟平溪 中寮鄉永芳村龍南路273-10號（眉仔陀）,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E182,S10,編號 46,南投縣,樟平溪 中寮鄉永芳村龍南路龍南六號橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E183,S10,編號 47,南投縣,樟平溪 中寮鄉永芳和村龍南路（內湖底店仔前）,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E184,S10,編號 48,南投縣,樟平溪 中寮鄉永和村龍南路石龍宮前,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E185,S10,編號 49,南投縣,貓羅溪 祖師橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E186,S10,編號 50,南投縣,樟平溪 龍興橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E187,S10,編號 51,南投縣,鯉魚潭 埔里鎮蜈蚣里鯉魚路,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E188,S10,編號 52,南投縣,瑪磷窟 埔里鎮合成里轄內,unknown,not_classified,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E189,S10,編號 53,南投縣,桃米溪 埔里鎮桃米里轄內,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E190,S10,編號 54,南投縣,枇杷里排水溝 埔里鎮枇杷、水頭及清新里,other,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E191,S10,編號 55,南投縣,烏踏坑溪 往霧社方向獅子頭橋前二百公尺處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E192,S10,編號 56,南投縣,南港溪 草魚潭,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E193,S10,編號 57,南投縣,南港溪 玉門關內,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E194,S10,編號 58,南投縣,長流溪 長福一號橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E195,S10,編號 59,南投縣,九份二山 堰塞湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E196,S10,編號 60,南投縣,竹坑流域 虹仙橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E197,S10,編號 61,南投縣,烏溪 乾峰橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E198,S10,編號 62,南投縣,北港溪 糯米橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E199,S10,編號 63,南投縣,北港溪 神仙島遊覽谷內,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E200,S10,編號 64,南投縣,北港溪 協和二號橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E201,S10,編號 65,南投縣,北港溪 港門橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E202,S10,編號 66,南投縣,北港溪 旗洞巷仙?橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E203,S10,編號 67,南投縣,司馬鞍溪 司馬鞍攔砂壩附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E204,S10,編號 68,南投縣,日月潭水域 堰堤,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E205,S10,編號 69,南投縣,日月潭水域 台電抽水站,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E206,S10,編號 70,南投縣,日月潭水域 翠湖路段,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E207,S10,編號 71,南投縣,日月潭水域 玄光寺碼頭,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E208,S10,編號 72,南投縣,日月潭水域 九龍口,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E209,S10,編號 73,南投縣,日月潭水域 朝霧碼頭,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E210,S10,編號 74,南投縣,日月潭水域 德化碼頭,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E211,S10,編號 75,南投縣,日月潭水域 日月潭電力公司旁,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E212,S10,編號 76,南投縣,日月潭水域 明潭發電廠周邊(投131線屬水里轄管),lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E213,S10,編號 77,南投縣,日月潭水域 環湖公路危險水域多處,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E214,S10,編號 78,南投縣,日月潭水域 大竹湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E215,S10,編號 79,南投縣,塔落灣溪 仁愛鄉精英村溫泉、春陽等部落,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E216,S10,編號 80,南投縣,眉溪 仁愛鄉南豐村南山溪部落,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E217,S10,編號 81,南投縣,萬大水庫 仁愛鄉大同村,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E218,S10,編號 82,南投縣,夢谷瀑布 仁愛鄉南豐村,river_stream,inferred,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E219,S10,編號 83,南投縣,一線天 仁愛鄉法治村,unknown,not_classified,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E220,S10,編號 84,南投縣,帖比倫瀑布 仁愛鄉紅香部落,river_stream,inferred,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E221,S10,編號 85,南投縣,濁水流域 仁愛鄉精英村格拿里露營區旁,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E222,S10,編號 86,南投縣,濁水流域 山崇里南雲路名竹大橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E223,S10,編號 87,南投縣,東埔蚋溪流域 延平里集山路延平橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E224,S10,編號 88,南投縣,東埔蚋溪流域 延平里東鄉路初鄉橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E225,S10,編號 89,南投縣,清水溪流域 中崎里集山路三段南雲大橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E226,S10,編號 90,南投縣,清水溪流域 鯉魚里鯉行路鯉魚大橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E227,S10,編號 91,南投縣,清水溪流域 福興里鯉行路龍門大橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E228,S10,編號 92,南投縣,清水溪流域 桶頭里鯉南路桶頭吊橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E229,S10,編號 93,南投縣,清水溪流域 桶頭里鯉南路瑞草橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E230,S10,編號 94,南投縣,清水溪 集集鎮廣明里大園巷段（清水溪）,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E231,S10,編號 95,南投縣,清水溪 集集鎮林尾里公館巷段（清水溪）,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E232,S10,編號 96,南投縣,濁水溪 集集鎮攔河堰管理中心旁,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E233,S10,編號 97,南投縣,濁水溪 水里鄉興隆橋下濁水溪,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E234,S10,編號 98,南投縣,濁水溪 水里鄉玉峰橋下濁水溪,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E235,S10,編號 99,南投縣,水里溪 大觀發電廠出水口下游500M處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E236,S10,編號 100,南投縣,水里溪 明潭發電廠出水口下游約100M處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E237,S10,編號 101,南投縣,水里溪 民生橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E238,S10,編號 102,南投縣,水里溪 中山橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E239,S10,編號 103,南投縣,濁水溪 永興橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E240,S10,編號 104,南投縣,濁水溪 玉峰橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E241,S10,編號 105,南投縣,濁水溪 龍神橋下,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E242,S10,編號 106,南投縣,德興瀑布 鹿谷鄉竹林村產業道路,river_stream,inferred,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E243,S10,編號 107,南投縣,北勢溪自來廠附近 鹿谷鄉竹林村自來廠附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E244,S10,編號 108,南投縣,北勢溪和雅谷附近 鹿谷鄉內湖村和雅谷附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E245,S10,編號 109,南投縣,北勢溪溪谷餐廳 鹿谷鄉內湖村溪谷餐廳附近,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E246,S10,編號 110,南投縣,東埔蚋 鹿谷鄉初鄉村三彎路段下方,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E247,S10,編號 111,南投縣,財仔溪 鹿谷鄉廣興村賞螢步道,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E248,S10,編號 112,南投縣,清水溪 鹿谷鄉秀峰村清水橋,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E249,S10,編號 113,南投縣,麒麟潭 鹿谷鄉永隆村窟邊巷,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E250,S10,編號 114,南投縣,大觀電廠水庫 投131線旁,lake_reservoir_pond,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E251,S10,編號 115,南投縣,十八重溪 流經豐丘村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E252,S10,編號 116,南投縣,坪瀨溪 流經自強村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E253,S10,編號 117,南投縣,內茅埔溪 流經愛國、自強村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E254,S10,編號 118,南投縣,郡坑溪 流經明德村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E255,S10,編號 119,南投縣,陳有蘭溪 流經豐丘、愛國、明德村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E256,S10,編號 120,南投縣,卓棍溪 流經人和村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E257,S10,編號 121,南投縣,濁水溪 流經雙龍、地利、人和村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E258,S10,編號 122,南投縣,玉崙溪 流經潭南、地利村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E259,S10,編號 123,南投縣,牛稠坑溪 流經自強村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E260,S10,編號 124,南投縣,丹大溪 流經雙龍村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E261,S10,編號 125,南投縣,卡社溪 流經地利村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E262,S10,編號 126,南投縣,陳有蘭溪 流經信義鄉同富村、望美村羅娜村、新鄉村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E263,S10,編號 127,南投縣,筆石溪 流經新鄉村與羅娜村交接處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E264,S10,編號 128,南投縣,愛玉子溪 流經神木村,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E265,S10,編號 129,南投縣,和社溪 南投縣信義鄉同富村(大水池),river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E266,S10,編號 130,南投縣,阿里不動溪 南投縣信義鄉望美村阿里不動橋及阿里不動林道3K處,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E267,S10,編號 131,南投縣,烏干達溪 流經東埔,river_stream,explicit_in_source,hazard_inventory,agency_original,2024-02-21,https://data.nantou.gov.tw/dataset/ntfd-02
+E268,S11,PDF 編號 1,雲林縣,古坑鄉華山村科角溪(山知湖橋),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E269,S11,PDF 編號 2,雲林縣,古坑鄉華山村華山溪(華山橋),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E270,S11,PDF 編號 3,雲林縣,古坑鄉桂林村大湖口溪支流(桂林國小),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E271,S11,PDF 編號 4,雲林縣,古坑鄉樟湖村石橋野溪(石橋山莊),river_stream,inferred,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E272,S11,PDF 編號 5,雲林縣,古坑鄉草嶺村水濂洞野溪(水濂洞),river_stream,inferred,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E273,S11,PDF 編號 6,雲林縣,古坑鄉草嶺村竹篙水溪(鹿窟一號橋),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E274,S11,PDF 編號 7,雲林縣,古坑鄉草嶺村鹿窟仔野溪(鹿窟三號橋),river_stream,inferred,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E275,S11,PDF 編號 8,雲林縣,古坑鄉草嶺村東碧山莊野溪(東碧山莊),river_stream,inferred,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E276,S11,PDF 編號 9,雲林縣,古坑鄉草嶺村內湖坑溪（石鰻坑）(內湖橋),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E277,S11,PDF 編號 10,雲林縣,古坑鄉草嶺村原梅溪渡假村野溪(橙螢橋),river_stream,inferred,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E278,S11,PDF 編號 11,雲林縣,古坑鄉草嶺村清水溪支流(摸石乳庭園餐廳),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E279,S11,PDF 編號 12,雲林縣,古坑鄉草嶺村清水溪支流(青山坪咖啡廣場),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E280,S11,PDF 編號 13,雲林縣,古坑鄉桂林村大湖口溪支流(桂林53之5號),river_stream,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E281,S11,PDF 編號 16,雲林縣,四湖鄉箔子寮漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E282,S11,PDF 編號 17,雲林縣,四湖鄉溪仔崙泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E283,S11,PDF 編號 18,雲林縣,四湖鄉三條崙漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E284,S11,PDF 編號 19,雲林縣,四湖鄉林厝寮泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E285,S11,PDF 編號 20,雲林縣,台西鄉台西漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E286,S11,PDF 編號 21,雲林縣,台西鄉五條港漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E287,S11,PDF 編號 22,雲林縣,台西鄉蚊港泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E288,S11,PDF 編號 23,雲林縣,口湖鄉金湖漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E289,S11,PDF 編號 24,雲林縣,口湖鄉土銀泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E290,S11,PDF 編號 25,雲林縣,口湖鄉成龍泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E291,S11,PDF 編號 26,雲林縣,口湖鄉下湖口泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E292,S11,PDF 編號 27,雲林縣,口湖鄉台子村漁港,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E293,S11,PDF 編號 28,雲林縣,麥寮鄉許厝寮泊地,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E294,S11,PDF 編號 29,雲林縣,麥寮鄉所轄海域,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E295,S11,PDF 編號 30,雲林縣,台西鄉所轄海域,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E296,S11,PDF 編號 31,雲林縣,四湖鄉所轄海域,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E297,S11,PDF 編號 32,雲林縣,口湖鄉所轄海域,coast_sea,explicit_in_source,disaster_response_restriction,agency_original,2023-10-04,https://ws.yunlin.gov.tw/001/Upload/427/relfile/9600/431601/4f546b10-9f75-41ce-bc45-ea9be70103c1.pdf
+E298,S12,編號 1,嘉義縣,朴子市朴子溪永和里段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E299,S12,編號 2,嘉義縣,朴子市崁前里與順安里交界大排水溝,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E300,S12,編號 3,嘉義縣,朴子市崁後里荷包嶼排水溝永順橋,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E301,S12,編號 4,嘉義縣,朴子市仁和里大排水溝,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E302,S12,編號 5,嘉義縣,朴子市梅華里牛桃灣大埤 (池塘),lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E303,S12,編號 6,嘉義縣,鹿草鄉下潭村浮水邊,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E304,S12,編號 7,嘉義縣,鹿草鄉施家村外水圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E305,S12,編號 8,嘉義縣,鹿草鄉三角村毛蟹行鐘福宮旁水池,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E306,S12,編號 9,嘉義縣,鹿草鄉城隍廟親水公園,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E307,S12,編號 10,嘉義縣,東石鄉蔦松村湖底朴子溪船仔頭段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E308,S12,編號 11,嘉義縣,東石鄉海埔地軍營邊堤防,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E309,S12,編號 12,嘉義縣,東石鄉鰲鼓村四股農場內 7 號水門海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E310,S12,編號 13,嘉義縣,東石鄉永屯村水門,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E311,S12,編號 14,嘉義縣,東石鄉塭仔村後埔水門,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E312,S12,編號 15,嘉義縣,東石鄉海埔村親水公園,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E313,S12,編號 16,嘉義縣,東石鄉鰲鼓橋,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E314,S12,編號 17,嘉義縣,東石鄉網寮往白水湖水門,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E315,S12,編號 18,嘉義縣,布袋鎮岑海里南側海洋生態走廊海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E316,S12,編號 19,嘉義縣,布袋鎮岑海里北側第三碼頭西側海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E317,S12,編號 20,嘉義縣,布袋鎮好美里防風林海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E318,S12,編號 21,嘉義縣,布袋鎮岑里舊橋下延線溝渠,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E319,S12,編號 22,嘉義縣,布袋鎮西安里團結橋週邊,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E320,S12,編號 23,嘉義縣,六腳鄉潭墘村大廟邊,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E321,S12,編號 24,嘉義縣,六腳鄉內村娘媽廟前水潭,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E322,S12,編號 25,嘉義縣,六腳鄉更寮村活動中心文物室下方,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E323,S12,編號 26,嘉義縣,義竹鄉八掌溪義竹段水域,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E324,S12,編號 27,嘉義縣,義竹鄉後鎮村義布橋週邊,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E325,S12,編號 28,嘉義縣,義竹鄉官順村武聖廟前八掌溪流域,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E326,S12,編號 29,嘉義縣,義竹鄉北華村龍宮溪支流永華橋頭,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E327,S12,編號 30,嘉義縣,民雄鄉大崎村虎頭埤水庫,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E328,S12,編號 31,嘉義縣,民雄鄉平和村何祖厝廟前水池,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E329,S12,編號 32,嘉義縣,水上鄉嘉南大圳沿線,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E330,S12,編號 33,嘉義縣,太保市麻寮里嘉南大圳新港支線,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E331,S12,編號 34,嘉義縣,太保市前潭里三山國王廟前水池,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E332,S12,編號 35,嘉義縣,大林鎮鹿東溝,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E333,S12,編號 36,嘉義縣,大林鎮中林里水塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E334,S12,編號 37,嘉義縣,大林鎮明華里下埤頭池塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E335,S12,編號 38,嘉義縣,大林鎮三和里水碓池塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E336,S12,編號 39,嘉義縣,大林鎮上林里頂員林池塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E337,S12,編號 40,嘉義縣,大林鎮內林里池塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E338,S12,編號 41,嘉義縣,大林鎮溝背里池塘,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E339,S12,編號 42,嘉義縣,溪口鄉溪東村和平橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E340,S12,編號 43,嘉義縣,新港鄉嘉南大圳台塑公司前,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E341,S12,編號 44,嘉義縣,新港鄉月潭村保月宮前,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E342,S12,編號 45,嘉義縣,中埔鄉龍門村赤蘭溪龍門段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E343,S12,編號 46,嘉義縣,中埔鄉灣潭村溪洲段,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E344,S12,編號 47,嘉義縣,中埔鄉鹽館村中央橋段,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E345,S12,編號 48,嘉義縣,中埔鄉深坑村深坑橋段,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E346,S12,編號 49,嘉義縣,中埔相同仁村柚仔宅橋,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E347,S12,編號 50,嘉義縣,中埔鄉沄水村沄水溪內何厝,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E348,S12,編號 51,嘉義縣,番路鄉仁義潭水庫北側（真天宮附近內甕橋）,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E349,S12,編號 52,嘉義縣,番路鄉大湖村?凰瀑布,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E350,S12,編號 53,嘉義縣,番路鄉觸口村八掌溪觸口橋下,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E351,S12,編號 54,嘉義縣,番路鄉觸口村八掌溪行圓橋,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E352,S12,編號 55,嘉義縣,大埔鄉和平村攔沙壩,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E353,S12,編號 56,嘉義縣,大埔鄉曾文水庫大埔鄉情人公園下船處,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E354,S12,編號 57,嘉義縣,大埔鄉曾文水庫茄苳村茄苳腳下船處,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E355,S12,編號 58,嘉義縣,大埔鄉曾文水庫永樂村埔頂下船處,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E356,S12,編號 59,嘉義縣,大埔鄉曾文水庫湖濱公園下船處,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E357,S12,編號 60,嘉義縣,竹崎鄉灣橋村清華山吊橋下,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E358,S12,編號 61,嘉義縣,竹崎鄉灣橋村朴子溪朴子仔埔段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E359,S12,編號 62,嘉義縣,竹崎鄉朴子溪上游善感橋段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E360,S12,編號 63,嘉義縣,竹崎鄉文峰村觀音瀑布,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E361,S12,編號 64,嘉義縣,竹崎鄉竹崎村親水公園,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E362,S12,編號 65,嘉義縣,竹崎鄉龍宏液化石油灌裝場旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E363,S12,編號 66,嘉義縣,竹崎鄉清水溪紫雲村鹿寮堀段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E364,S12,編號 67,嘉義縣,竹崎鄉清水溪柑仔宅段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E365,S12,編號 68,嘉義縣,竹崎鄉龍山村金龍橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E366,S12,編號 69,嘉義縣,竹崎鄉與番路鄉交界處（台三線）坑內僑,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E367,S12,編號 70,嘉義縣,梅山鄉大峽谷風景區外溪流,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E368,S12,編號 71,嘉義縣,梅山鄉安靖村湖底善警橋,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E369,S12,編號 72,嘉義縣,梅山鄉圳南村圳北溪圳頭段,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2011-06-29,https://www.hhps.cyc.edu.tw/modules/tadnews/index.php?nsn=196
+E370,S13,PDF p.1 table row 1,臺南市,七股區國姓橋下,river_stream,inferred,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E371,S13,PDF p.1 table row 2,臺南市,七股區鹽場蓄水池旁,lake_reservoir_pond,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E372,S13,PDF p.1 table row 3,臺南市,七股區潟湖,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E373,S13,PDF p.1 table row 4,臺南市,下營區急水溪橋頭,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E374,S13,PDF p.1 table row 5,臺南市,山上區平陽村石子崎菜寮溪,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E375,S13,PDF p.1 table row 6,臺南市,仁德區二仁溪二層行橋,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E376,S13,PDF p.1 table row 7,臺南市,六甲區王爺村烏山頭水庫姊妹島東側水域,lake_reservoir_pond,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E377,S13,PDF p.1 table row 8,臺南市,北門區雙春村隻春海水浴場,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E378,S13,PDF p.1 table row 9,臺南市,北門區蘆竹溝海域,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E379,S13,PDF p.1 table row 10,臺南市,台南市海濱秋茂園,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E380,S13,PDF p.1 table row 11,臺南市,台南市安平海灘區,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E381,S13,PDF p.1 table row 12,臺南市,台南市黃金海岸海灘,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E382,S13,PDF p.1 table row 13,臺南市,台南市嘉南大圳橋下,other,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E383,S13,PDF p.1 table row 14,臺南市,西港區西港大橋,river_stream,inferred,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E384,S13,PDF p.1 table row 15,臺南市,將軍區馬沙溝外海,coast_sea,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E385,S13,PDF p.1 table row 16,臺南市,麻豆區曾文溪麻善大橋下,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E386,S13,PDF p.1 table row 17,臺南市,新化區知義理虎頭埤,lake_reservoir_pond,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E387,S13,PDF p.1 table row 18,臺南市,新營區舊廓里急水溪橋下方,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E388,S13,PDF p.2 table row 1 (overall 19),臺南市,新營區延平急水溪橋下游附近,river_stream,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E389,S13,PDF p.2 table row 2 (overall 20),臺南市,關廟區松腳村大潭埤水域,lake_reservoir_pond,explicit_in_source,hazard_inventory,origin_unconfirmed,2015-04-22,http://120.116.20.9/share/std_aff/water-safe/files/14-1.pdf
+E390,S14,Seq 1,高雄市,愛河水域：大同二路147號前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E391,S14,Seq 2,高雄市,第五渠道：高雄市前鎮區中華五路(金鞏橋-第五渠道),other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E392,S14,Seq 3,高雄市,愛河水域：五福大橋下愛河水域(靠近河東路),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E393,S14,Seq 4,高雄市,愛河水域：河東路165號前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E394,S14,Seq 5,高雄市,愛河水域：河東路五福三路交叉前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E395,S14,Seq 6,高雄市,蚵仔寮漁港(外海)：高雄市梓官區蚵仔寮漁港南堤沙灘(外海),coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E396,S14,Seq 7,高雄市,愛河：願景橋,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E397,S14,Seq 8,高雄市,魚塭：高雄市湖內區民族街372巷,other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E398,S14,Seq 9,高雄市,高雄市鳥松區澄清湖：高雄市鳥松區澄清湖三亭覽勝,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E399,S14,Seq 10,高雄市,二仁溪：白砂路475巷120號,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E400,S14,Seq 11,高雄市,後勁溪：高雄市楠梓區德中橋下,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E401,S14,Seq 12,高雄市,蓮池潭：高雄市左營區蓮池潭水域試驗所,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E402,S14,Seq 13,高雄市,後勁溪：興中橋近仁昌街,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E403,S14,Seq 14,高雄市,愛河：河西一路1435號(元氣十足前愛河),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E404,S14,Seq 15,高雄市,前鎮河：高雄市前鎮區中山四路與五甲三路口媽祖港橋旁20公尺（前鎮河）,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E405,S14,Seq 16,高雄市,後勁溪：高雄市楠梓區大學17街後勁溪沿岸,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E406,S14,Seq 17,高雄市,幸福川：高雄市新興區河南一路、忠孝一路交叉處(幸福川),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E407,S14,Seq 18,高雄市,幸福川：高雄市三民區河北二路101號,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E408,S14,Seq 19,高雄市,愛河水域：河西路鹽埕國中前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E409,S14,Seq 20,高雄市,蓮池潭：高雄市左營區蓮池潭龍虎塔旁,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E410,S14,Seq 21,高雄市,阿公店溪：永安區維仁橋下,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E411,S14,Seq 22,高雄市,高屏溪：大樹區舊鐵橋抽水站附近,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E412,S14,Seq 23,高雄市,後勁溪：後勁溪右昌大橋下,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E413,S14,Seq 24,高雄市,愛河：高雄市鹽埕區建國三路和河西一路口(確址河西一路145號),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E414,S14,Seq 25,高雄市,愛河水域：中正路橋下地方法院前靠近河東路(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E415,S14,Seq 26,高雄市,愛河水域：河東路和光復二街交叉路口前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E416,S14,Seq 27,高雄市,第五渠道(成功橋側)：高雄市前鎮區成功橋側(第五渠道),other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E417,S14,Seq 28,高雄市,愛河水域：河東路及大同二路前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E418,S14,Seq 29,高雄市,旗津海水域場：高雄市旗津區海岸公園豐收廣場前,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E419,S14,Seq 30,高雄市,蓮池潭：高雄市左營區元帝廟北極亭,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E420,S14,Seq 31,高雄市,情人碼頭：高雄市茄萣區情人碼頭,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E421,S14,Seq 32,高雄市,魚塭：高雄市湖內區和平路148巷57號,other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E422,S14,Seq 33,高雄市,林園區港埔一路出海口：林園區港埔一路出海口,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E423,S14,Seq 34,高雄市,澄清湖水域富國島：澄清湖水域富國島,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E424,S14,Seq 35,高雄市,木勝溪：羅木斯瀑布,river_stream,inferred,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E425,S14,Seq 36,高雄市,愛河：高雄市鹽埕區鹽埕國中旁愛河,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E426,S14,Seq 37,高雄市,中坑門排水幹線：海墘路109巷與下厝路路口,other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E427,S14,Seq 38,高雄市,美濃溪：美濃溪(福義街10-26號旁),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E428,S14,Seq 39,高雄市,大同圳：高雄市鳥松區大同路大同圳,other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E429,S14,Seq 40,高雄市,南寮漁港港內：高雄市彌陀區漁港路71號,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E430,S14,Seq 41,高雄市,愛河：九如陸橋下愛河,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E431,S14,Seq 42,高雄市,愛河水域：河東路188號地方法院前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E432,S14,Seq 43,高雄市,中央公園水池：中央公園水池(民生二路與中山一路),lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E433,S14,Seq 44,高雄市,林園區海墘路海邊：林園區海墘路海邊,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E434,S14,Seq 45,高雄市,前鎮河：鎮東四街與鎮東四街165巷旁2公尺處前鎮河邊,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E435,S14,Seq 46,高雄市,前鎮河：媽祖港橋與中山四路旁5公尺處（前鎮河）,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E436,S14,Seq 47,高雄市,岡山榮民之家內的池塘：高雄市燕巢區成功路1號,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E437,S14,Seq 48,高雄市,後勁溪：高雄市楠梓區興中橋下,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E438,S14,Seq 49,高雄市,愛河水域：高雄地方法院前愛河水域(高雄市前金區河東路188號),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E439,S14,Seq 50,高雄市,後勁溪：高雄市後勁溪興中橋下游100公尺處,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E440,S14,Seq 51,高雄市,金獅湖：高雄市三民區鼎金後路36巷21號前方金獅湖,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E441,S14,Seq 52,高雄市,愛河：高雄市鼓山區市立鼓岩國小前(鄧麗君紀念館前),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E442,S14,Seq 53,高雄市,蓮池潭：明潭路和環潭路交叉路口,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E443,S14,Seq 54,高雄市,興達港碼頭：高雄市茄萣區大發路30號,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E444,S14,Seq 55,高雄市,前鎮河：鎮榮橋下方距離鎮洋路50公尺,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E445,S14,Seq 56,高雄市,澄清湖水域：高雄市鳥松區澄清湖-三亭攬勝,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E446,S14,Seq 57,高雄市,愛河水域：河東路10號前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E447,S14,Seq 58,高雄市,吉安街75號旁野蓮池：吉安街75號旁野蓮池,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E448,S14,Seq 59,高雄市,愛河水域：河東路和中正四路交叉路口前(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E449,S14,Seq 60,高雄市,前鎮河：五甲三路295巷與福德街交叉口旁約2公尺河面（前鎮河）,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E450,S14,Seq 61,高雄市,澄清湖：鳥松區澄清湖風景區-靠近划船場,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E451,S14,Seq 62,高雄市,愛河支流：三民區河東路與河北路口交叉口,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E452,S14,Seq 63,高雄市,愛河流域：苓雅寮鐵橋中段(愛河流域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E453,S14,Seq 64,高雄市,蚵仔寮海域：高雄市梓官區通安路305巷30號(通安宮正廟牌樓旁海堤),coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E454,S14,Seq 65,高雄市,美濃湖：美濃湖,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E455,S14,Seq 66,高雄市,澄清湖水域：鳥松區環湖路靠近大埤路,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E456,S14,Seq 67,高雄市,大地游泳池：高雄市三民區民族一路509巷8號(大地游泳池),other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E457,S14,Seq 68,高雄市,池塘：內門區內豐段580地號前,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E458,S14,Seq 69,高雄市,金獅湖：高雄市三民區天祥一路與鼎金後路口金獅橋,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E459,S14,Seq 70,高雄市,澄清湖水域：鳥松區文前路88-2號前(三亭攬勝),lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E460,S14,Seq 71,高雄市,澄清湖水域：高雄市鳥松區大埤路和環湖路的交叉路口,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E461,S14,Seq 72,高雄市,澄清湖水域：鳥松區澄清湖三亭攬勝,lake_reservoir_pond,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E462,S14,Seq 73,高雄市,中都溼地公園：三民區中都濕地公園內吊橋(同盟三路與十全三路),other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E463,S14,Seq 74,高雄市,興達港碼頭：高雄市茄萣區興達港綠燈塔,coast_sea,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E464,S14,Seq 75,高雄市,愛河水域：河東路七賢大橋與中正橋中間(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E465,S14,Seq 76,高雄市,愛河：高雄市三民區家樂福前,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E466,S14,Seq 77,高雄市,愛河：高雄市三民區河東路356號,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E467,S14,Seq 78,高雄市,曹公圳：信義街6號旁橋(曹公圳),other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E468,S14,Seq 79,高雄市,愛河：高雄市鹽埕區河西路老人亭,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E469,S14,Seq 80,高雄市,漁塭：玉庫118-6號,other,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E470,S14,Seq 81,高雄市,愛河支流：明華一路與光興街,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E471,S14,Seq 82,高雄市,前鎮河：鎮州路219巷與興仁一路距離路邊約5公尺,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E472,S14,Seq 83,高雄市,鳳山溪：鳳山區光華東路100號(鳳西國小),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E473,S14,Seq 84,高雄市,愛河水域：自立一路和河南二路交叉(愛河水域),river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E474,S14,Seq 85,高雄市,後勁溪：高雄市楠梓區援中路右昌教會對面,river_stream,explicit_in_source,incident_records,agency_original,2025-06-30,https://data.gov.tw/dataset/143370
+E475,S15,"112 file, row 1 (東港鎮), item 1",屏東縣,東港鎮東港溪堤防划龍舟處,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E476,S15,"112 file, row 1 (東港鎮), item 2",屏東縣,東港鎮朝隆路43號,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E477,S15,"112 file, row 1 (東港鎮), item 3",屏東縣,東港鎮大鵬灣南堤,coast_sea,inferred,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E478,S15,"112 file, row 1 (東港鎮), item 4",屏東縣,東港鎮豐漁橋,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E479,S15,"112 file, row 2 (來義鄉), item 1",屏東縣,來義鄉阿樂岸溪橋邊100公尺處,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E480,S15,"112 file, row 3 (枋山鄉), item 1",屏東縣,枋山鄉枋山溪北岸出海口,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E481,S15,"112 file, row 4 (枋寮鄉), item 1",屏東縣,枋寮鄉德聖路附近海堤,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E482,S15,"112 file, row 4 (枋寮鄉), item 2",屏東縣,枋寮鄉保生村枋寮漁港,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E483,S15,"112 file, row 4 (枋寮鄉), item 3",屏東縣,枋寮鄉蕃仔崙海灘附近魚塭,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E484,S15,"112 file, row 4 (枋寮鄉), item 4",屏東縣,枋寮鄉豐漁路90號右方魚塭,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E485,S15,"112 file, row 5 (林邊鄉), item 1",屏東縣,林邊鄉海巡署崎峰安檢所旁,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E486,S15,"112 file, row 6 (屏東市), item 1",屏東縣,屏東市復興南路二段63巷53號附近,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E487,S15,"112 file, row 6 (屏東市), item 2",屏東縣,屏東市高屏大橋往高雄方向,river_stream,inferred,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E488,S15,"112 file, row 6 (屏東市), item 3",屏東縣,屏東市高屏溪河畔,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E489,S15,"112 file, row 6 (屏東市), item 4",屏東縣,屏東市自由路和建國路的交叉路口/建國橋邊的水管上,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E490,S15,"112 file, row 6 (屏東市), item 5",屏東縣,屏東市頭前溪台畜工廠附近排溝內,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E491,S15,"112 file, row 6 (屏東市), item 6",屏東縣,屏東市殺蛇溪劉厝橋,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E492,S15,"112 file, row 7 (恆春鎮), item 1",屏東縣,恆春鎮台灣最南點,coast_sea,inferred,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E493,S15,"112 file, row 8 (崁頂鄉), item 1",屏東縣,崁頂鄉力社路10-61號旁,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E494,S15,"112 file, row 9 (琉球鄉), item 1",屏東縣,琉球鄉大福漁港西側舊漁港,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E495,S15,"112 file, row 9 (琉球鄉), item 2",屏東縣,琉球鄉杉福漁港附近水域,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E496,S15,"112 file, row 9 (琉球鄉), item 3",屏東縣,琉球鄉美人洞第二售票口潮間帶沙灘,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E497,S15,"112 file, row 9 (琉球鄉), item 4",屏東縣,琉球鄉花瓶岩海域,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E498,S15,"112 file, row 10 (高樹鄉), item 1",屏東縣,高樹鄉新豐村農用灌溉溝渠,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E499,S15,"112 file, row 11 (新園鄉), item 1",屏東縣,新園鄉南光寺水閘門/堤防外/高屏溪離岸約100m,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E500,S15,"112 file, row 11 (新園鄉), item 2",屏東縣,新園鄉鹽埔漁港裡面靠近燈塔處,coast_sea,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E501,S15,"112 file, row 11 (新園鄉), item 3",屏東縣,新園鄉高屏溪流域,river_stream,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E502,S15,"112 file, row 11 (新園鄉), item 4",屏東縣,新園鄉龍港大橋,unknown,not_classified,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E503,S15,"112 file, row 12 (萬丹鄉), item 1",屏東縣,萬丹鄉新社路751巷/清水寺附近蝦池,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E504,S15,"112 file, row 13 (潮州鎮), item 1",屏東縣,潮州鎮潮州天心釣蝦場,other,explicit_in_source,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E505,S15,"112 file, row 14 (霧臺鄉), item 1",屏東縣,霧臺鄉飛龍瀑布上游,river_stream,inferred,incident_records,agency_original,2026-03-17,https://data.gov.tw/dataset/146710
+E506,S06,"PDF p.1, 宜蘭縣 頭城鎮, item 1",宜蘭縣,頭城鎮烏石港,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E507,S06,"PDF p.1, 宜蘭縣 頭城鎮, item 2",宜蘭縣,頭城鎮竹安河口,river_stream,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E508,S06,"PDF p.1, 宜蘭縣 頭城鎮, item 3",宜蘭縣,頭城鎮大溪蜜月灣,coast_sea,inferred,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E509,S06,"PDF p.1, 宜蘭縣 礁溪鄉, item 1",宜蘭縣,礁溪鄉猴洞溪,river_stream,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E510,S06,"PDF p.1, 宜蘭縣 礁溪鄉, item 2",宜蘭縣,礁溪鄉五峰旗瀑布,river_stream,inferred,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E511,S06,"PDF p.1, 宜蘭縣 礁溪鄉, item 3",宜蘭縣,礁溪鄉龍潭湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E512,S06,"PDF p.1, 宜蘭縣 壯圍鄉, item 1",宜蘭縣,壯圍鄉壯圍永鎮海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E513,S06,"PDF p.1, 宜蘭縣 壯圍鄉, item 2",宜蘭縣,壯圍鄉東港出海口,river_stream,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E514,S06,"PDF p.1, 宜蘭縣 壯圍鄉, item 3",宜蘭縣,壯圍鄉壯圍大橋水域,river_stream,inferred,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E515,S06,"PDF p.1, 宜蘭縣 五結鄉, item 1",宜蘭縣,五結鄉利澤海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E516,S06,"PDF p.1, 宜蘭縣 五結鄉, item 2",宜蘭縣,五結鄉埤仔尾海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E517,S06,"PDF p.1, 宜蘭縣 五結鄉, item 3",宜蘭縣,五結鄉加里宛海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E518,S06,"PDF p.1, 宜蘭縣 五結鄉, item 4",宜蘭縣,五結鄉清水海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E519,S06,"PDF p.1, 宜蘭縣 蘇澳鎮, item 1",宜蘭縣,蘇澳鎮豆腐岬海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E520,S06,"PDF p.1, 宜蘭縣 蘇澳鎮, item 2",宜蘭縣,蘇澳鎮內埤海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E521,S06,"PDF p.1, 宜蘭縣 蘇澳鎮, item 3",宜蘭縣,蘇澳鎮大坑罟出海口,river_stream,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E522,S06,"PDF p.1, 宜蘭縣 南澳鄉, item 1",宜蘭縣,南澳鄉朝陽海邊,coast_sea,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E523,S06,"PDF p.1, 宜蘭縣 南澳鄉, item 2",宜蘭縣,南澳鄉南澳南（北）溪,river_stream,explicit_in_source,hazard_inventory,official_compilation,2016-08-15,https://www.cga.gov.tw/GipOpen/wSite/public/Attachment/f1471225663319.pdf
+E524,S16,PDF 編號 1,花蓮縣,清水斷崖,coast_sea,inferred,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E525,S16,PDF 編號 2,花蓮縣,立霧溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E526,S16,PDF 編號 3,花蓮縣,崇德海域,coast_sea,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E527,S16,PDF 編號 4,花蓮縣,三棧溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E528,S16,PDF 編號 5,花蓮縣,七星潭,coast_sea,inferred,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E529,S16,PDF 編號 6,花蓮縣,美崙溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E530,S16,PDF 編號 7,花蓮縣,花蓮溪出海口,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E531,S16,PDF 編號 8,花蓮縣,國姓廟出海口,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E532,S16,PDF 編號 9,花蓮縣,七腳川溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E533,S16,PDF 編號 10,花蓮縣,水源地,unknown,not_classified,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E534,S16,PDF 編號 11,花蓮縣,木瓜溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E535,S16,PDF 編號 12,花蓮縣,慕谷慕魚,river_stream,inferred,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E536,S16,PDF 編號 13,花蓮縣,白鮑溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E537,S16,PDF 編號 14,花蓮縣,鯉魚潭,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E538,S16,PDF 編號 15,花蓮縣,豐濱海域,coast_sea,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E539,S16,PDF 編號 16,花蓮縣,磯崎海域,coast_sea,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E540,S16,PDF 編號 17,花蓮縣,芭崎海域,coast_sea,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E541,S16,PDF 編號 18,花蓮縣,鹽寮海域,coast_sea,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E542,S16,PDF 編號 19,花蓮縣,石梯坪,coast_sea,inferred,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E543,S16,PDF 編號 20,花蓮縣,萬里溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E544,S16,PDF 編號 21,花蓮縣,馬太鞍溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E545,S16,PDF 編號 22,花蓮縣,石公溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E546,S16,PDF 編號 23,花蓮縣,秀姑巒溪,river_stream,explicit_in_source,rescue_records,agency_original,2020-07-08,https://www.hlcfd.gov.tw/DR-Policy.htm
+E547,S17,"編號 1, album image 1 of 4",臺東縣,台東市卑南大圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E548,S17,"編號 2, album image 1 of 4",臺東縣,台東市大同路海濱公園堤防附近海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E549,S17,"編號 3, album image 1 of 4",臺東縣,台東市中華大橋下卑南溪出海口南、北端,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E550,S17,"編號 4, album image 1 of 4",臺東縣,台東市琵琶湖（防風林內）,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E551,S17,"編號 5, album image 1 of 4",臺東縣,台東市小野柳觀光區及附近防波堤,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E552,S17,"編號 6, album image 1 of 4",臺東縣,台東市富岡漁港,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E553,S17,"編號 7, album image 1 of 4",臺東縣,台東市立游泳池北端溪流口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E554,S17,"編號 8, album image 1 of 4",臺東縣,台東市南海路第一公墓附近,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E555,S17,"編號 9, album image 1 of 4",臺東縣,台東市卑南大溪河堤堤防,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E556,S17,"編號 10, album image 1 of 4",臺東縣,台東市人工湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E557,S17,"編號 11, album image 1 of 4",臺東縣,杉原海水浴場,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E558,S17,"編號 12, album image 1 of 4",臺東縣,杉原海水浴場旁南北端,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E559,S17,"編號 13, album image 1 of 4",臺東縣,台東市鐵地爾遊樂區海邊與夢幻湖,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E560,S17,"編號 14, album image 1 of 4",臺東縣,台東市大南橋橋下南段水利圳溝,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E561,S17,"編號 15, album image 1 of 4",臺東縣,卑南鄉內溫泉知本森林遊樂區水域,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E562,S17,"編號 16, album image 1 of 4",臺東縣,卑南鄉岩灣職訓所後方卑南大溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E563,S17,"編號 17, album image 1 of 4",臺東縣,卑南鄉志航路台東大橋下方,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E564,S17,"編號 18, album image 1 of 4",臺東縣,卑南鄉更生北路之卑南大圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E565,S17,"編號 19, album image 1 of 4",臺東縣,卑南鄉利吉大橋西方岩灣處,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E566,S17,"編號 20, album image 1 of 4",臺東縣,知本圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E567,S17,"編號 21, album image 1 of 4",臺東縣,射馬干圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E568,S17,"編號 22, album image 1 of 4",臺東縣,射馬干圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E569,S17,"編號 23, album image 1 of 4",臺東縣,卑南鄉利吉村（礦廠）前卑南大溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E570,S17,"編號 24, album image 1 of 4",臺東縣,卑南鄉十股山上大蓄水池（檳榔村）,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E571,S17,"編號 25, album image 1 of 4",臺東縣,卑南鄉山里火車站前卑南大溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E572,S17,"編號 26, album image 1 of 4",臺東縣,卑南鄉鹿鳴橋下方（舊橋）,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E573,S17,"編號 27, album image 1 of 4",臺東縣,卑南鄉嘉豐村一鄰堤防下方,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E574,S17,"編號 28, album image 1 of 4",臺東縣,卑南鄉東興村大南橋下方,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E575,S17,"編號 29, album image 1 of 4",臺東縣,卑南鄉東興村往大南橋發電廠路旁（自來水欽水圳）,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E576,S17,"編號 30, album image 1 of 4",臺東縣,卑南上圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E577,S17,"編號 31, album image 1 of 4",臺東縣,十股調整池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E578,S17,"編號 32, album image 1 of 4",臺東縣,大南圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E579,S17,"編號 33, album image 1 of 4",臺東縣,利家圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E580,S17,"編號 34, album image 1 of 4",臺東縣,大南圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E581,S17,"編號 35, album image 1 of 4",臺東縣,卑南大圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E582,S17,"編號 36, album image 1 of 4",臺東縣,卑南大圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E583,S17,"編號 37, album image 1 of 4",臺東縣,利家圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E584,S17,"編號 38, album image 1 of 4",臺東縣,綠島鄉中寮港口,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E585,S17,"編號 39, album image 1 of 4",臺東縣,綠島鄉南寮漁港北方浮潛區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E586,S17,"編號 40, album image 1 of 4",臺東縣,綠島鄉大白沙浮潛區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E587,S17,"編號 41, album image 1 of 4",臺東縣,綠島鄉柚仔湖右層區,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E588,S17,"編號 42, album image 2 of 4",臺東縣,綠島鄉公館綠洲山莊前海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E589,S17,"編號 43, album image 2 of 4",臺東縣,綠島鄉海底溫泉區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E590,S17,"編號 44, album image 2 of 4",臺東縣,綠島鄉公館港口區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E591,S17,"編號 45, album image 2 of 4",臺東縣,綠島鄉柴口潛水區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E592,S17,"編號 46, album image 2 of 4",臺東縣,綠島鄉南寮港口,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E593,S17,"編號 47, album image 2 of 4",臺東縣,蘭嶼鄉開元港口,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E594,S17,"編號 48, album image 2 of 4",臺東縣,蘭嶼鄉椰油漁港,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E595,S17,"編號 49, album image 2 of 4",臺東縣,蘭嶼鄉母雞岩海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E596,S17,"編號 50, album image 2 of 4",臺東縣,蘭嶼鄉東清灣海域,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E597,S17,"編號 51, album image 2 of 4",臺東縣,蘭嶼鄉野銀冷泉浮淺區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E598,S17,"編號 52, album image 2 of 4",臺東縣,蘭嶼鄉龍門碼頭,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E599,S17,"編號 53, album image 2 of 4",臺東縣,太麻里鄉美和圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E600,S17,"編號 54, album image 2 of 4",臺東縣,太麻里鄉美和村知本溪出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E601,S17,"編號 55, album image 2 of 4",臺東縣,太麻里鄉美和派駐所旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E602,S17,"編號 56, album image 2 of 4",臺東縣,太麻里鄉三和派駐所旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E603,S17,"編號 57, album image 2 of 4",臺東縣,太麻里鄉新香蘭派駐所旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E604,S17,"編號 58, album image 2 of 4",臺東縣,太麻里鄉香蘭村新香蘭海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E605,S17,"編號 59, album image 2 of 4",臺東縣,太麻里鄉金崙村溫泉吊橋下,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E606,S17,"編號 60, album image 2 of 4",臺東縣,太麻里鄉金崙溪北邊出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E607,S17,"編號 61, album image 2 of 4",臺東縣,太麻里鄉金崙溪南邊出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E608,S17,"編號 62, album image 2 of 4",臺東縣,太麻里鄉多良村大竹溪出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E609,S17,"編號 63, album image 2 of 4",臺東縣,太麻里鄉多良村大溪出海口附近水域,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E610,S17,"編號 64, album image 2 of 4",臺東縣,太麻里鄉北太麻里溪出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E611,S17,"編號 65, album image 2 of 4",臺東縣,太麻里鄉南太麻里溪出海口,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E612,S17,"編號 66, album image 2 of 4",臺東縣,太麻里鄉北里舊海防班哨旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E613,S17,"編號 67, album image 2 of 4",臺東縣,太麻里鄉泰和公墓往海邊路口,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E614,S17,"編號 68, album image 2 of 4",臺東縣,關山鎮水源路大圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E615,S17,"編號 69, album image 2 of 4",臺東縣,關山鎮示範公墓旁大圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E616,S17,"編號 70, album image 2 of 4",臺東縣,關山鎮電光大橋北堤防,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E617,S17,"編號 71, album image 2 of 4",臺東縣,關山鎮紅石大圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E618,S17,"編號 72, album image 2 of 4",臺東縣,關山鎮電光大橋南堤防,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E619,S17,"編號 73, album image 2 of 4",臺東縣,關山鎮月眉堤防,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E620,S17,"編號 74, album image 2 of 4",臺東縣,池上圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E621,S17,"編號 75, album image 2 of 4",臺東縣,池上圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E622,S17,"編號 76, album image 2 of 4",臺東縣,池上鄉大坡溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E623,S17,"編號 77, album image 2 of 4",臺東縣,池上鄉大波池周圍,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E624,S17,"編號 78, album image 2 of 4",臺東縣,池上大橋堤防,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E625,S17,"編號 79, album image 2 of 4",臺東縣,池上鄉新興溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E626,S17,"編號 80, album image 2 of 4",臺東縣,池上鄉富興溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E627,S17,"編號 81, album image 2 of 4",臺東縣,池上鄉泥水溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E628,S17,"編號 82, album image 2 of 4",臺東縣,池上鄉文田橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E629,S17,"編號 83, album image 2 of 4",臺東縣,關山大圳進水口（83-88為海端分隊轄區）,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E630,S17,"編號 84, album image 2 of 4",臺東縣,關山圳沉砂池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E631,S17,"編號 85, album image 2 of 4",臺東縣,海端鄉初來檢查哨進入一千公尺右側,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E632,S17,"編號 86, album image 3 of 4",臺東縣,海端鄉錦屏水圳,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E633,S17,"編號 87, album image 3 of 4",臺東縣,海端鄉錦屏堤防,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E634,S17,"編號 88, album image 3 of 4",臺東縣,海端鄉新武橋兩端橋頭,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E635,S17,"編號 89, album image 3 of 4",臺東縣,鹿野鄉鹿寮溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E636,S17,"編號 90, album image 3 of 4",臺東縣,鹿野鄉寶華橋（入口）,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E637,S17,"編號 91, album image 3 of 4",臺東縣,鹿野鄉后湖卑南溪入口（瑞源）,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E638,S17,"編號 92, album image 3 of 4",臺東縣,鹿野大圳武陵社區,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E639,S17,"編號 93, album image 3 of 4",臺東縣,鹿野大圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E640,S17,"編號 94, album image 3 of 4",臺東縣,鹿野圳馬背調整池,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E641,S17,"編號 95, album image 3 of 4",臺東縣,延平鄉武陵橋（入口）,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E642,S17,"編號 96, album image 3 of 4",臺東縣,延平鄉紅葉溫泉（入口）,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E643,S17,"編號 97, album image 3 of 4",臺東縣,延平鄉鸞山橋西側（入口）,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E644,S17,"編號 98, album image 3 of 4",臺東縣,延平鄉鹿鳴橋（入口）兩側,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E645,S17,"編號 99, album image 3 of 4",臺東縣,成功鎮小馬海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E646,S17,"編號 100, album image 3 of 4",臺東縣,成功鎮東河溪口海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E647,S17,"編號 101, album image 3 of 4",臺東縣,成功鎮半屏橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E648,S17,"編號 102, album image 3 of 4",臺東縣,成功鎮都歷公墓往海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E649,S17,"編號 103, album image 3 of 4",臺東縣,成功鎮成功漁港港區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E650,S17,"編號 104, album image 3 of 4",臺東縣,成功鎮海濱公園,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E651,S17,"編號 105, album image 3 of 4",臺東縣,成功鎮基臺海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E652,S17,"編號 106, album image 3 of 4",臺東縣,成功鎮三仙台保護區海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E653,S17,"編號 107, album image 3 of 4",臺東縣,成功鎮嘉平福德橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E654,S17,"編號 108, album image 3 of 4",臺東縣,成功鎮白守蓮堤防北邊,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E655,S17,"編號 109, album image 3 of 4",臺東縣,成功鎮嘉平站牌前,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E656,S17,"編號 110, album image 3 of 4",臺東縣,成功鎮小港漁港港區,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E657,S17,"編號 111, album image 3 of 4",臺東縣,成功鎮石雨傘附近海岸,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E658,S17,"編號 112, album image 3 of 4",臺東縣,成功鎮重安都威橋溪旁,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E659,S17,"編號 113, album image 3 of 4",臺東縣,成功鎮白守蓮過三仙橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E660,S17,"編號 114, album image 3 of 4",臺東縣,成功鎮重安公墓旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E661,S17,"編號 115, album image 3 of 4",臺東縣,成功鎮都歷水無橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E662,S17,"編號 116, album image 3 of 4",臺東縣,成功鎮宜灣至界橋海岸,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E663,S17,"編號 117, album image 3 of 4",臺東縣,成功鎮嘉平瀧乃橋旁,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E664,S17,"編號 118, album image 3 of 4",臺東縣,成功鎮麒麟舊垃圾場旁,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E665,S17,"編號 119, album image 3 of 4",臺東縣,成功鎮麒麟九孔池旁,other,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E666,S17,"編號 120, album image 3 of 4",臺東縣,成功鎮白守蓮堤防南邊,unknown,not_classified,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E667,S17,"編號 121, album image 3 of 4",臺東縣,東河鄉金樽休息區下方海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E668,S17,"編號 122, album image 3 of 4",臺東縣,東河鄉七里橋下方海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E669,S17,"編號 123, album image 3 of 4",臺東縣,東河鄉泰源村南溪新部落中興橋附近,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E670,S17,"編號 124, album image 3 of 4",臺東縣,東河鄉泰源國下方南溪溪邊,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E671,S17,"編號 125, album image 3 of 4",臺東縣,東河鄉泰源國小左側下方南溪溪邊,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E672,S17,"編號 126, album image 3 of 4",臺東縣,東河鄉泰源村桃源山莊後方河堤附近,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E673,S17,"編號 127, album image 3 of 4",臺東縣,東河鄉新東河橋下,river_stream,inferred,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E674,S17,"編號 128, album image 3 of 4",臺東縣,東河鄉金樽路海堤防波塊附近,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E675,S17,"編號 129, album image 3 of 4",臺東縣,東河鄉金樽砂石祥合場海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E676,S17,"編號 130, album image 4 of 4",臺東縣,東河鄉金樽港入口處,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E677,S17,"編號 131, album image 4 of 4",臺東縣,東河鄉金樽港左右兩側防波堤,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E678,S17,"編號 132, album image 4 of 4",臺東縣,東河鄉金樽港出海口燈塔附近,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E679,S17,"編號 133, album image 4 of 4",臺東縣,東河鄉興昌村海防哨附近海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E680,S17,"編號 134, album image 4 of 4",臺東縣,東河鄉都蘭村公墓海邊附近,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E681,S17,"編號 135, album image 4 of 4",臺東縣,東河鄉新橋休息站附近海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E682,S17,"編號 136, album image 4 of 4",臺東縣,東河鄉漁濛車站附近海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E683,S17,"編號 137, album image 4 of 4",臺東縣,東河鄉新東河橋下方河口附近,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E684,S17,"編號 138, album image 4 of 4",臺東縣,東河鄉新蘭休息站附近海邊,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E685,S17,"編號 139, album image 4 of 4",臺東縣,東河鄉新蘭漁港防波堤,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E686,S17,"編號 140, album image 4 of 4",臺東縣,長濱鄉烏石鼻漁港,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E687,S17,"編號 141, album image 4 of 4",臺東縣,長濱鄉白桑安海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E688,S17,"編號 142, album image 4 of 4",臺東縣,長濱鄉竹湖海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E689,S17,"編號 143, album image 4 of 4",臺東縣,長濱鄉長濱漁港,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E690,S17,"編號 144, album image 4 of 4",臺東縣,長濱鄉長光海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E691,S17,"編號 145, album image 4 of 4",臺東縣,長濱鄉真柄海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E692,S17,"編號 146, album image 4 of 4",臺東縣,長濱鄉八仙洞海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E693,S17,"編號 147, album image 4 of 4",臺東縣,長濱鄉水母丁溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E694,S17,"編號 148, album image 4 of 4",臺東縣,長濱鄉齒草橋海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E695,S17,"編號 149, album image 4 of 4",臺東縣,長濱鄉大俱來海灘,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E696,S17,"編號 150, album image 4 of 4",臺東縣,長濱大圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E697,S17,"編號 151, album image 4 of 4",臺東縣,寧朝圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E698,S17,"編號 152, album image 4 of 4",臺東縣,石山圳進水口,other,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E699,S17,"編號 153, album image 4 of 4",臺東縣,大武鄉金龍湖,lake_reservoir_pond,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E700,S17,"編號 154, album image 4 of 4",臺東縣,大武鄉尚武漁港,coast_sea,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E701,S17,"編號 155, album image 4 of 4",臺東縣,大武鄉大武溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E702,S17,"編號 156, album image 4 of 4",臺東縣,達仁鄉安朔溪,river_stream,explicit_in_source,hazard_inventory,repost_origin_unconfirmed,2013-05-20,https://www.facebook.com/media/set/?set=a.470699089675683.1073741870.184542214958040&type=1
+E703,S18,"notice p.1 subject, area 1",澎湖縣,目斗嶼海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E704,S18,"notice p.1 subject, area 2",澎湖縣,吉貝沙尾地區海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E705,S18,"notice p.1 subject, area 3",澎湖縣,青灣內灣海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E706,S18,"notice p.1 subject, area 4",澎湖縣,隘門海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E707,S18,"notice p.1 subject, area 5",澎湖縣,山水海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E708,S18,"notice p.1 subject, area 6",澎湖縣,望安綠蠵龜產卵棲地保護區海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E709,S18,"notice p.1 subject, area 7",澎湖縣,蒔裡沙灘海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E710,S18,"notice p.1 subject, area 8",澎湖縣,險礁嶼海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E711,S18,"notice p.1 subject, area 9",澎湖縣,姑婆嶼海域,coast_sea,explicit_in_source,recreation_restriction,agency_original,2022-07-28,https://admin.taiwan.net.tw/penghu-nsa/themesPenghu/Articles?a=24362
+E712,S19,PDF 序號 1,金門縣,古崗湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E713,S19,PDF 序號 2,金門縣,莒光湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E714,S19,PDF 序號 3,金門縣,雄獅堡海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E715,S19,PDF 序號 4,金門縣,后豐港,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E716,S19,PDF 序號 5,金門縣,水頭港,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E717,S19,PDF 序號 6,金門縣,謝厝海邊,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E718,S19,PDF 序號 7,金門縣,金門縣立游泳池,other,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E719,S19,PDF 序號 8,金門縣,同安渡船頭海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E720,S19,PDF 序號 9,金門縣,官裡仰雲殿附近池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E721,S19,PDF 序號 10,金門縣,慈湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E722,S19,PDF 序號 11,金門縣,南山出海口,river_stream,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E723,S19,PDF 序號 12,金門縣,后湖海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E724,S19,PDF 序號 13,金門縣,湖下金門大橋海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E725,S19,PDF 序號 14,金門縣,慈湖海堤,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E726,S19,PDF 序號 15,金門縣,安岐保安殿附近水池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E727,S19,PDF 序號 16,金門縣,黃厝,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E728,S19,PDF 序號 17,金門縣,后頭金烈大橋海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E729,S19,PDF 序號 18,金門縣,東崗海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E730,S19,PDF 序號 19,金門縣,羅厝漁港,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E731,S19,PDF 序號 20,金門縣,沙溪堡海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E732,S19,PDF 序號 21,金門縣,九井路(東坑)旁,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E733,S19,PDF 序號 22,金門縣,東坑4號附近,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E734,S19,PDF 序號 23,金門縣,上林30號屋外水井,other,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E735,S19,PDF 序號 24,金門縣,成功出海口,river_stream,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E736,S19,PDF 序號 25,金門縣,太湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E737,S19,PDF 序號 26,金門縣,小太湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E738,S19,PDF 序號 27,金門縣,料羅3號碼頭,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E739,S19,PDF 序號 28,金門縣,尚義機場海邊,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E740,S19,PDF 序號 29,金門縣,新湖漁港,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E741,S19,PDF 序號 30,金門縣,82據點,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E742,S19,PDF 序號 31,金門縣,黃龍潭,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E743,S19,PDF 序號 32,金門縣,環島北路三段300號肉品市場,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E744,S19,PDF 序號 33,金門縣,山外溪署金醫院旁,river_stream,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E745,S19,PDF 序號 34,金門縣,山外泰安池,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E746,S19,PDF 序號 35,金門縣,復國墩漁港,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E747,S19,PDF 序號 36,金門縣,蘭湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E748,S19,PDF 序號 37,金門縣,峰上海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E749,S19,PDF 序號 38,金門縣,北碇島海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E750,S19,PDF 序號 39,金門縣,夏興外海,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E751,S19,PDF 序號 40,金門縣,長江發電廠湖潭,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E752,S19,PDF 序號 41,金門縣,瓊林近海,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E753,S19,PDF 序號 42,金門縣,瓊林池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E754,S19,PDF 序號 43,金門縣,伯玉路3段168號附近湖潭,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E755,S19,PDF 序號 44,金門縣,伯玉路4段75號附近水井,other,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E756,S19,PDF 序號 45,金門縣,料羅灣,coast_sea,inferred,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E757,S19,PDF 序號 46,金門縣,新頭海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E758,S19,PDF 序號 47,金門縣,漁村海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E759,S19,PDF 序號 48,金門縣,溪邊海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E760,S19,PDF 序號 49,金門縣,金沙警察所前的池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E761,S19,PDF 序號 50,金門縣,山西57號前池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E762,S19,PDF 序號 51,金門縣,山西22-2號旁池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E763,S19,PDF 序號 52,金門縣,山后村寒舍花海域,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E764,S19,PDF 序號 53,金門縣,田埔村外海,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E765,S19,PDF 序號 54,金門縣,高坑台金飯店旁池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E766,S19,PDF 序號 55,金門縣,田埔水庫,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E767,S19,PDF 序號 56,金門縣,金沙水庫,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E768,S19,PDF 序號 57,金門縣,田墩養殖區,other,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E769,S19,PDF 序號 58,金門縣,浦邊海邊,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E770,S19,PDF 序號 59,金門縣,蔡厝公車站牌旁,unknown,not_classified,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E771,S19,PDF 序號 60,金門縣,中蘭傢俱行前池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E772,S19,PDF 序號 61,金門縣,榮湖淨水廠,other,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E773,S19,PDF 序號 62,金門縣,榮湖旁池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E774,S19,PDF 序號 63,金門縣,榮湖,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E775,S19,PDF 序號 64,金門縣,西園海邊,coast_sea,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E776,S19,PDF 序號 65,金門縣,斗門池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E777,S19,PDF 序號 66,金門縣,富康農莊水庫旁池塘,lake_reservoir_pond,explicit_in_source,rescue_records,agency_original,2024-08-31,https://ws.kinmen.gov.tw/001/Upload/315/relfile/10010/356717/8c549bf6-160c-465f-913d-63d8eff5b99e.pdf
+E778,S20,map marker 1 (unnumbered),連江縣,南竿島地圖紅星標示第1處（原圖未標地名）,unknown,not_classified,hazard_inventory,agency_original,2017-11,http://www.lcfd.gov.tw/disaster/disaster_potential/
+E779,S20,map marker 2 (unnumbered),連江縣,南竿島地圖紅星標示第2處（原圖未標地名）,unknown,not_classified,hazard_inventory,agency_original,2017-11,http://www.lcfd.gov.tw/disaster/disaster_potential/
+E780,S20,map marker 3 (unnumbered),連江縣,南竿島地圖紅星標示第3處（原圖未標地名）,unknown,not_classified,hazard_inventory,agency_original,2017-11,http://www.lcfd.gov.tw/disaster/disaster_potential/
