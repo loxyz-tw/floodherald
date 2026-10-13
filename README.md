@@ -11,7 +11,7 @@ the water. Person detection never starts, delays or stops the siren.
 Entry for the [ASUS UGen AI League](https://contest.bhuntr.com/tw/39jg9vimiynrhlksze/home/),
 Battlefield Lightning track (UGen300), onsite group.
 
-- Demo video: coming soon
+- Demo video: https://youtu.be/LmJYFT-1AKs
 - Status: **Stage I — laptop simulation.** The two-node hardware is a
   proposed design and is not built yet.
 - Verified so far: 30 automated functional tests of the alarm rules, prompts,
