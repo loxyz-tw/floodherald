@@ -4,8 +4,9 @@ Run from the repo root after rendering the simulations and the cards:
 
     python3 video/assemble.py --daily sim/out/daily.mp4 --flood sim/out/flood.mp4 --out video/out/floodherald_stage1.mp4
 
-Every clip is played once, unedited (no freeze, cut, loop or speed change);
-cards fill the gaps. Narration is burnt in as subtitles (subtitle draft); a
+Every footage frame is played once at its original speed (no freeze, cut,
+loop or speed change); clip audio fades out over the final 0.5 s; cards fill
+the gaps. Narration is burnt in as subtitles (subtitle draft); a
 narration audio track is planned and not implemented yet.
 """
 
@@ -25,9 +26,9 @@ W, H, FPS = 1920, 1080, 24
 TIMELINE = [
     ("opening", ROOT / "opening_H3_final_12s.mp4", None),
     ("card", CARDS / "arch.png", 15.0),
-    ("card", CARDS / "scenario1.png", 3.0),
+    ("card", CARDS / "scenario1.png", 5.0),
     ("clip", "daily", None),
-    ("card", CARDS / "scenario2.png", 4.0),
+    ("card", CARDS / "scenario2.png", 5.0),
     ("clip", "flood", None),
     ("card", CARDS / "closing.png", 12.0),
 ]
@@ -125,8 +126,10 @@ def main() -> None:
             )
         else:
             chains.append(f"[{v}:v]scale={W}:{H},fps={FPS},format=yuv420p,setsar=1[v{k}];")
+        # Fade the clip's sound over its last 0.5 s so the cut to a silent card is not abrupt;
+        # every frame still plays (audio mix only).
         chains[-1] += (f"[{v}:a]aresample=48000,aformat=channel_layouts=stereo,"
-                       f"atrim=0:{secs},apad=whole_dur={secs}[a{k}]")
+                       f"atrim=0:{secs},apad=whole_dur={secs},afade=t=out:st={secs - 0.5}:d=0.5[a{k}]")
 
     starts = [sum(lengths[:i]) for i in range(len(lengths))]
     tmp = Path(tempfile.mkdtemp())

@@ -14,6 +14,7 @@ PANEL_X = VID_W + 20
 FONT = cv2.FONT_HERSHEY_SIMPLEX
 
 WHITE, GREY, DIM = (240, 240, 240), (170, 170, 170), (90, 90, 90)
+NOTE = (200, 200, 200)  # key disclaimers: must stay readable in a small player
 RED, GREEN, AMBER, CYAN = (40, 40, 220), (80, 190, 80), (40, 170, 240), (220, 200, 60)
 
 
@@ -57,8 +58,11 @@ class Overlay:
         for note in self.notes:
             if note["from"] <= t < note["to"]:
                 for line in note["lines"]:
+                    (tw, th), _ = cv2.getTextSize(line, FONT, 0.8, 2)
+                    box = vid[ny - th - 10:ny + 12, 10:30 + tw]
+                    box[:] = (box * 0.35).astype(np.uint8)  # dark backing so the note reads on any footage
                     text(vid, line, (20, ny), 0.8, WHITE)
-                    ny += 36
+                    ny += 40
 
         img = np.full((H, W, 3), 18, np.uint8)
         img[TOP:TOP + VID_H, :VID_W] = vid
@@ -66,7 +70,7 @@ class Overlay:
             cv2.rectangle(img, (0, TOP), (VID_W - 1, TOP + VID_H - 1), RED, 10)
 
         text(img, "LAPTOP SIMULATION", (20, 50), 1.1, WHITE, 3)
-        text(img, "Offline simulation replay", (22, 72), 0.5, DIM, 1)
+        text(img, "Offline simulation replay", (22, 72), 0.55, NOTE, 1)
         text(img, f"{self.title}", (420, 50), 1.0, GREY)
         text(img, f"t = {t:5.1f} s", (W - 230, 50), 0.9, GREY)
 
@@ -83,18 +87,18 @@ class Overlay:
         loc = ctl.effective_local(t)
         text(img, "Upstream", (PANEL_X, y), 0.75, GREY)
         text(img, up, (PANEL_X + 200, y), 0.75, RED if up == "FLOOD" else WHITE)
-        text(img, "Injected", (PANEL_X + 200, y + 26), 0.55, DIM, 1)
+        text(img, "Injected", (PANEL_X + 200, y + 26), 0.6, NOTE, 1)
         y += 70
         text(img, "Local water", (PANEL_X, y), 0.75, GREY)
         text(img, loc, (PANEL_X + 200, y), 0.75, WHITE)
-        text(img, "Injected", (PANEL_X + 200, y + 26), 0.55, DIM, 1)
+        text(img, "Injected", (PANEL_X + 200, y + 26), 0.6, NOTE, 1)
 
         y += 80
         n = len(dets)
         label = "0 people detected" if n == 0 else f"{n} detected, {in_zone} {self.in_word}"
         text(img, label, (PANEL_X, y), 0.8, WHITE if n == 0 else AMBER)
-        text(img, "Person detection never starts", (PANEL_X, y + 30), 0.55, DIM, 1)
-        text(img, "or stops the alarm", (PANEL_X, y + 52), 0.55, DIM, 1)
+        text(img, "Person detection never starts", (PANEL_X, y + 30), 0.62, NOTE, 1)
+        text(img, "or stops the alarm", (PANEL_X, y + 54), 0.62, NOTE, 1)
 
         y += 110
         # End conditions only mean something once a FLOOD has latched the alarm.
@@ -103,7 +107,7 @@ class Overlay:
             text(img, "Alarm ends only when all hold:", (PANEL_X, y), 0.65, GREY)
         else:
             text(img, "No FLOOD received", (PANEL_X, y), 0.65, GREY)
-            text(img, self.idle_note, (PANEL_X, y + 28), 0.55, DIM, 1)
+            text(img, self.idle_note, (PANEL_X, y + 28), 0.6, NOTE, 1)
             y += 3 * 62  # keep the rest of the panel in place
         for c in conds:
             y += 62
@@ -121,9 +125,9 @@ class Overlay:
 
         y += 80
         if conds:
-            text(img, "Demo timing - not field thresholds", (PANEL_X, y), 0.55, AMBER, 1)
+            text(img, "Demo timing - not field thresholds", (PANEL_X, y), 0.62, AMBER, 1)
             tt = self.params["t_travel"]
-            text(img, f"M = {self.params['m']:g} s, T_travel = {'unknown' if tt is None else f'{tt:g} s'}", (PANEL_X, y + 26), 0.55, AMBER, 1)
+            text(img, f"M = {self.params['m']:g} s, T_travel = {'unknown' if tt is None else f'{tt:g} s'}", (PANEL_X, y + 28), 0.62, AMBER, 1)
         y += 70
         text(img, f"Model: {self.model} (real inference)", (PANEL_X, y), 0.55, GREY, 1)
         text(img, f"Backend: {self.backend}", (PANEL_X, y + 26), 0.55, GREY, 1)
