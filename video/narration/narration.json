@@ -1,0 +1,78 @@
+{
+ "model": "hexgrad/Kokoro-82M",
+ "revision": "f3ff3571791e39611d31c381e3a41a3af07b4987",
+ "voice": "af_heart",
+ "speed": 1.0,
+ "clips": [
+  {
+   "file": "00.wav",
+   "text": "Rain can fall in the hills while the swimming spot stays sunny.",
+   "seconds": 3.199
+  },
+  {
+   "file": "01.wav",
+   "text": "Once a wall of water appears, there may be ten seconds or less to get out.",
+   "seconds": 3.937
+  },
+  {
+   "file": "02.wav",
+   "text": "FloodHerald links an upstream sentinel to a riverside guardian by radio.",
+   "seconds": 4.338
+  },
+  {
+   "file": "03.wav",
+   "text": "A flood alert sounds the siren on site, with no internet needed.",
+   "seconds": 3.55
+  },
+  {
+   "file": "04.wav",
+   "text": "First: a no-swimming zone.",
+   "seconds": 1.462
+  },
+  {
+   "file": "05.wav",
+   "text": "Person detected: a spoken warning, with no flood alert or siren.",
+   "seconds": 4.078
+  },
+  {
+   "file": "06.wav",
+   "text": "Next: a swimming area, with a flood upstream.",
+   "seconds": 2.557
+  },
+  {
+   "file": "07.wav",
+   "text": "Everyone has left the riverbed, and the alarm stays on.",
+   "seconds": 2.962
+  },
+  {
+   "file": "08.wav",
+   "text": "The warning came before the water did.",
+   "seconds": 1.878
+  },
+  {
+   "file": "09.wav",
+   "text": "Recovery is compressed for this demo.",
+   "seconds": 1.953
+  },
+  {
+   "file": "10.wav",
+   "text": "Both water states must stay valid and normal, and the travel-time margin must expire.",
+   "seconds": 4.832
+  },
+  {
+   "file": "11.wav",
+   "text": "Zero detections never clear the alarm.",
+   "seconds": 2.335
+  },
+  {
+   "file": "12.wav",
+   "text": "For deployment, we plan a compact Raspberry Pi and UGen300 node for on-site person detection.",
+   "seconds": 6.453
+  },
+  {
+   "file": "13.wav",
+   "text": "Intended buyers are local governments. The code is on GitHub.",
+   "seconds": 3.572
+  }
+ ]
+}

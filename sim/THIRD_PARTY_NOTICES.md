@@ -99,9 +99,7 @@ were checked on 2026-10-13 against the linked originals.
   (Google Gemini TTS)" wherever the demo video is published.
 - An earlier draft of these two Chinese prompts used Kokoro-82M-v1.1-zh
   (Apache-2.0); the current prompts do not use it.
-- English narration for the demo video is planned (Kokoro, English voice)
-  and is not part of these files yet; its model version and license will be
-  listed here when it is added.
+- English narration for the demo video: see section 6.
 
 ## 4. Siren sound
 
@@ -117,3 +115,17 @@ were checked on 2026-10-13 against the linked originals.
   Ultralytics package, AGPL-3.0) onto a plain background. Used only for
   development testing; not committed and not included in the submitted
   demo video.
+
+## 6. Kokoro-82M (English narration of the demo video)
+
+- Model: `hexgrad/Kokoro-82M` v1.0, revision
+  `f3ff3571791e39611d31c381e3a41a3af07b4987`, voice `af_heart`, speed 1.0
+- Runtime: `kokoro` 0.9.4 and `misaki[en]` 0.9.4 (both Apache-2.0), spaCy
+  `en_core_web_sm` 3.8.0 (MIT), PyTorch CPU build
+- License: Apache-2.0 —
+  <https://huggingface.co/hexgrad/Kokoro-82M/blob/f3ff3571791e39611d31c381e3a41a3af07b4987/README.md>
+  (model card, `license: apache-2.0`)
+- Use: `video/make_narration.py` generates one clip per narration line into
+  `video/narration/` offline on CPU; `video/assemble.py` mixes them into the
+  demo video. The voice is synthetic and credited on the closing card. The
+  model weights are not included in this repository.

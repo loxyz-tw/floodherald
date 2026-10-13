@@ -132,7 +132,7 @@ class Overlay:
         text(img, f"Model: {self.model} (real inference)", (PANEL_X, y), 0.55, GREY, 1)
         text(img, f"Backend: {self.backend}", (PANEL_X, y + 26), 0.55, GREY, 1)
         text(img, "Selected alarm-rule simulation", (PANEL_X, y + 52), 0.55, GREY, 1)
-        text(img, "Voice: AI-generated (Google Gemini TTS)", (PANEL_X, y + 78), 0.55, GREY, 1)
+        text(img, "Chinese voice: AI-generated (Gemini TTS)", (PANEL_X, y + 78), 0.55, GREY, 1)
 
         if subtitle:
             (tw, _), _ = cv2.getTextSize(subtitle, FONT, 1.1, 2)

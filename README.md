@@ -73,8 +73,8 @@ with subtitle support.
 ## AI-generated content
 
 - Video footage: generated locally with MiniMax H3; labelled on screen.
-- Chinese spoken prompts: Google Gemini TTS. English narration: planned
-  (Kokoro); listed in the notices when added.
+- Chinese spoken prompts: Google Gemini TTS. English narration: Kokoro-82M
+  (Apache-2.0).
 - Water states in the simulation are injected, not detected; timings are
   demo values, not field thresholds.
 
